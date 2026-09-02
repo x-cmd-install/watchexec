@@ -1,0 +1,59 @@
+about:
+  description: Executes commands in response to file modifications
+  license: Apache-2.0
+  homepage: https://watchexec.github.io
+  head: c871088
+  archived: false
+  latestVersion: v2.7.0
+  collectedAt: 2026-09-02T04:31:48Z
+timeline:
+  created: 2016-09-18
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-24
+popularity:
+  star: 7165
+  watcher: 27
+  fork: 201
+  release: 115
+  contributor: 83
+  pullRequest: 326
+  issue: 366
+language:
+  Rust: 788808
+  Python: 3847
+  Shell: 2458
+  JavaScript: 217
+totalLine: 795330
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 3
+    mergedPR: 28
+    openPR: 5
+    closedIssue: 1
+    openIssue: 2
+    commit: 67
+  last90d:
+    since: 2026-06-04
+    release: 3
+    mergedPR: 38
+    openPR: 5
+    closedIssue: 1
+    openIssue: 2
+    commit: 78
+  last180d:
+    since: 2026-03-06
+    release: 4
+    mergedPR: 45
+    openPR: 5
+    closedIssue: 5
+    openIssue: 2
+    commit: 89
+  last360d:
+    since: 2025-09-07
+    release: 10
+    mergedPR: 66
+    openPR: 5
+    closedIssue: 10
+    openIssue: 5
+    commit: 136
