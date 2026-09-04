@@ -7,13 +7,13 @@ about:
   head: d6870ce
   archived: false
   latestVersion: v2.7.1
-  collectedAt: 2026-09-04T19:33:16Z
+  collectedAt: 2026-09-04T20:59:39Z
 timeline:
   created: 2016-09-18
   lastCommit: 2026-09-03
   lastRelease: 2026-09-03
 popularity:
-  star: 7173
+  star: 7174
   watcher: 27
   fork: 202
   release: 116
@@ -83,6 +83,59 @@ total:
   openIssue: 29
   commit: 1672
 ---
+path: /home/runner/.x-repo/github.com/watchexec/watchexec
+collectedAt: 2026-09-04T20:59:40Z
+loc:
+  Rust:
+    code: 21585
+    comments: 390
+    blanks: 2995
+    files: 114
+  Toml:
+    code: 805
+    comments: 18
+    blanks: 164
+    files: 18
+  Svg:
+    code: 307
+    comments: 0
+    blanks: 0
+    files: 1
+  Json:
+    code: 248
+    comments: 0
+    blanks: 0
+    files: 8
+  Python:
+    code: 109
+    comments: 1
+    blanks: 33
+    files: 1
+  Sh:
+    code: 62
+    comments: 10
+    blanks: 26
+    files: 10
+  JavaScript:
+    code: 9
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1838
+    blanks: 897
+    files: 25
+  Text:
+    code: 0
+    comments: 35
+    blanks: 0
+    files: 12
+total:
+  code: 23338
+  comments: 4605
+  blanks: 4803
+  files: 190
 ---
 date: "2026-08-24"
 repo:
