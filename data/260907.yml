@@ -5,18 +5,18 @@ about:
   head: 98761fe
   archived: false
   latestVersion: "v2.7.2"
-  collectedAt: 2026-09-07T04:29:35Z
+  collectedAt: 2026-09-07T20:00:57Z
 timeline:
   created: 2016-09-18
   lastCommit: 2026-09-06
   lastRelease: 2026-09-06
 popularity:
-  star: 7175
+  star: 7177
   watcher: 28
   fork: 202
   release: 117
   contributor: 84
-  pullRequest: 698
+  pullRequest: 701
   issue: 367
 language:
   Rust: 796877
@@ -29,7 +29,7 @@ recent:
     since: 2026-08-08
     release: 5
     mergedPR: 32
-    openPR: 4
+    openPR: 6
     closedIssue: 1
     openIssue: 3
     commit: 73
@@ -37,7 +37,7 @@ recent:
     since: 2026-07-09
     release: 5
     mergedPR: 41
-    openPR: 4
+    openPR: 6
     closedIssue: 1
     openIssue: 3
     commit: 84
@@ -45,7 +45,7 @@ recent:
     since: 2026-06-09
     release: 5
     mergedPR: 42
-    openPR: 4
+    openPR: 6
     closedIssue: 1
     openIssue: 3
     commit: 85
@@ -53,7 +53,7 @@ recent:
     since: 2026-03-11
     release: 6
     mergedPR: 48
-    openPR: 4
+    openPR: 6
     closedIssue: 5
     openIssue: 3
     commit: 96
@@ -61,7 +61,7 @@ recent:
     since: 2025-09-12
     release: 12
     mergedPR: 69
-    openPR: 4
+    openPR: 6
     closedIssue: 10
     openIssue: 6
     commit: 143
@@ -69,20 +69,20 @@ recent:
     since: 2024-09-17
     release: 17
     mergedPR: 83
-    openPR: 4
+    openPR: 6
     closedIssue: 41
     openIssue: 10
     commit: 316
 total:
   release: 117
   mergedPR: 373
-  openPR: 4
+  openPR: 6
   closedIssue: 338
   openIssue: 29
   commit: 1677
 ---
 path: /home/runner/.x-repo/github.com/watchexec/watchexec
-collectedAt: 2026-09-07T04:29:36Z
+collectedAt: 2026-09-07T20:01:00Z
 loc:
   Rust:
     code: 21605
@@ -257,7 +257,7 @@ checks:
       - 'Warn: release artifact v2.5.0 does not have provenance: https://api.github.com/repos/watchexec/watchexec/releases/290264349'
 ---
 eget:
-  collectedAt: 2026-09-07T04:29:37+00:00
+  collectedAt: 2026-09-07T20:01:01+00:00
   platform:
     darwin/arm64:
       name:  watchexec-2.7.2-aarch64-apple-darwin.tar.xz
