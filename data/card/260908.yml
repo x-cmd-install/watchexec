@@ -5,7 +5,7 @@ about:
   head: 98761fe
   archived: false
   latestVersion: "v2.7.2"
-  collectedAt: 2026-09-08T01:39:03Z
+  collectedAt: 2026-09-08T04:37:41Z
 timeline:
   created: 2016-09-18
   lastCommit: 2026-09-06
@@ -17,7 +17,7 @@ popularity:
   release: 117
   contributor: 84
   pullRequest: 701
-  issue: 367
+  issue: 368
 language:
   Rust: 796877
   Python: 3847
@@ -31,7 +31,7 @@ recent:
     mergedPR: 32
     openPR: 6
     closedIssue: 1
-    openIssue: 3
+    openIssue: 4
     commit: 73
   last60d:
     since: 2026-07-10
@@ -39,7 +39,7 @@ recent:
     mergedPR: 41
     openPR: 6
     closedIssue: 1
-    openIssue: 3
+    openIssue: 4
     commit: 84
   last90d:
     since: 2026-06-10
@@ -47,7 +47,7 @@ recent:
     mergedPR: 42
     openPR: 6
     closedIssue: 1
-    openIssue: 3
+    openIssue: 4
     commit: 85
   last180d:
     since: 2026-03-12
@@ -55,7 +55,7 @@ recent:
     mergedPR: 48
     openPR: 6
     closedIssue: 5
-    openIssue: 3
+    openIssue: 4
     commit: 96
   last360d:
     since: 2025-09-13
@@ -63,7 +63,7 @@ recent:
     mergedPR: 69
     openPR: 6
     closedIssue: 10
-    openIssue: 6
+    openIssue: 7
     commit: 143
   last720d:
     since: 2024-09-18
@@ -71,18 +71,18 @@ recent:
     mergedPR: 83
     openPR: 6
     closedIssue: 41
-    openIssue: 10
+    openIssue: 11
     commit: 316
 total:
   release: 117
   mergedPR: 373
   openPR: 6
   closedIssue: 338
-  openIssue: 29
+  openIssue: 30
   commit: 1677
 ---
 path: /home/runner/.x-repo/github.com/watchexec/watchexec
-collectedAt: 2026-09-08T01:39:04Z
+collectedAt: 2026-09-08T04:37:42Z
 loc:
   Rust:
     code: 21605
