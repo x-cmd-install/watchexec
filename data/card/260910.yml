@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.7.2"
   latestRelease: "v2.7.2"
   latestPrerelease: "lib-v2.0.0-pre.7"
-  collectedAt: 2026-09-10T16:09:39Z
+  collectedAt: 2026-09-10T20:17:56Z
 timeline:
   created: 2016-09-18
   lastCommit: 2026-09-06
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-06
   lastPrerelease: 2022-01-25
 popularity:
-  star: 7175
+  star: 7176
   watcher: 28
   fork: 202
   release: 117
@@ -86,7 +86,7 @@ total:
   commit: 1677
 ---
 path: /home/runner/.x-repo/github.com/watchexec/watchexec
-collectedAt: 2026-09-10T16:09:44Z
+collectedAt: 2026-09-10T20:17:58Z
 loc:
   Rust:
     code: 21605
