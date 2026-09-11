@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 5667,
       "digest": "sha256:4d59a5987c2d43d1f79d67571ed3962c498a8e579cc15d0e9a57d2ae16fc820e",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/SHA512SUMS"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2052916,
       "digest": "sha256:31e553b7160720796266168987c5e0728c388cc4776a26297b6a9feb00ab6437",
-      "download_count": 533,
+      "download_count": 551,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-aarch64-apple-darwin.tar.xz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3222711,
       "digest": "sha256:83a686e592f4402e9a8d76b27f9bff3e43f609b45fede37caaede18390a49553",
-      "download_count": 77,
+      "download_count": 80,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-aarch64-pc-windows-msvc.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 2527752,
       "digest": "sha256:99b5ed2a12edabc0312d93d39468769548a6aafc8f6a1b1d05e7026825e73e4a",
-      "download_count": 37,
+      "download_count": 39,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-aarch64-unknown-linux-gnu.deb"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 2935230,
       "digest": "sha256:71d246c5737d294d1c417b958ea12d00c77f35759b17e5aa49235117dd834fee",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-aarch64-unknown-linux-gnu.rpm"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 2516416,
       "digest": "sha256:b41387ec129119500085f34ffed619058cae2c944ed76fada63b30e37bc49b47",
-      "download_count": 380,
+      "download_count": 395,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-aarch64-unknown-linux-gnu.tar.xz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 2607228,
       "digest": "sha256:672ad662afe27f35b553d24772c52b82d8b908276c17846983afd12d03c40c68",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-aarch64-unknown-linux-musl.deb"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 2596392,
       "digest": "sha256:83cbce2ffc85adaab14d6ded09b292f4383358ac6d9a51b4e4e083df0cb7c831",
-      "download_count": 303,
+      "download_count": 305,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-aarch64-unknown-linux-musl.tar.xz"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 2607432,
       "digest": "sha256:3c11d4d34d73b6e2e07aae58672812fcdeb2c377595372af1b3b5336a912f06e",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-armv7-unknown-linux-gnueabihf.tar.xz"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:6c4937735bede99d02da98581ef1708fc65a0d39da72f55852e30e2fa92a499e",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-armv7-unknown-linux-gnueabihf.tar.xz.b3"
@@ -2227,7 +2227,7 @@
       "state": "uploaded",
       "size": 2782296,
       "digest": "sha256:d95634da6acd91c26b06cc6e04eda8e83cdc7f66a9736f5c1b591fb8e7346e35",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-powerpc64le-unknown-linux-gnu.deb"
@@ -2371,7 +2371,7 @@
       "state": "uploaded",
       "size": 3208227,
       "digest": "sha256:94ce18f0a3ec860c010dfe76e7072d77226ae6a947dcb8821abe0486b4ef3be4",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:59Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-powerpc64le-unknown-linux-gnu.rpm"
@@ -2515,7 +2515,7 @@
       "state": "uploaded",
       "size": 2772648,
       "digest": "sha256:742b962a1fed76b5a1c1e7eee0f9e917aebcfeed04e4bc265178c7e5dcad4005",
-      "download_count": 28,
+      "download_count": 29,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-powerpc64le-unknown-linux-gnu.tar.xz"
@@ -3091,7 +3091,7 @@
       "state": "uploaded",
       "size": 2781764,
       "digest": "sha256:90a10b165f48c4d7df659794da91b02772fff41350612f4ec21c013178343ad6",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-s390x-unknown-linux-gnu.deb"
@@ -3523,7 +3523,7 @@
       "state": "uploaded",
       "size": 2415084,
       "digest": "sha256:6a5481a14165f30da8826c7ae1ab3501402328834e7e2483d7c8b7ec4e608810",
-      "download_count": 90,
+      "download_count": 92,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-x86_64-apple-darwin.tar.xz"
@@ -3667,7 +3667,7 @@
       "state": "uploaded",
       "size": 3551421,
       "digest": "sha256:aeabeecbd3eaad0bc8f555790eb7437ecd6cf1caae9bb93fb4e678f43f342d1d",
-      "download_count": 749,
+      "download_count": 772,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-x86_64-pc-windows-msvc.zip"
@@ -3703,7 +3703,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:c3c7d14ff21029a63f63e08ceed0d2dcaf48b4704feb6da124fd8bfcd54560fc",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-x86_64-pc-windows-msvc.zip.b3"
@@ -3811,7 +3811,7 @@
       "state": "uploaded",
       "size": 2880656,
       "digest": "sha256:c360f668f60d682d625da4d13f9adbc1adf42a78a7d62b415e44b1466daaddca",
-      "download_count": 28,
+      "download_count": 29,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-x86_64-unknown-freebsd.tar.xz"
@@ -3847,7 +3847,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:8b140f102c577e8a9595a316c16ae9971aebf02a5553d6582dd5e914c354f61a",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-x86_64-unknown-freebsd.tar.xz.b3"
@@ -3955,7 +3955,7 @@
       "state": "uploaded",
       "size": 2923084,
       "digest": "sha256:53b9309e879647d4c0e83dec012a66766cc86c35fb1f180e67eba4cff155096d",
-      "download_count": 424,
+      "download_count": 426,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-x86_64-unknown-linux-gnu.deb"
@@ -4099,7 +4099,7 @@
       "state": "uploaded",
       "size": 3148314,
       "digest": "sha256:a1527ffd4ae9c03fc82a021c7f57cd28c1343b0e8339e8256755653268e174ee",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-x86_64-unknown-linux-gnu.rpm"
@@ -4243,7 +4243,7 @@
       "state": "uploaded",
       "size": 2913228,
       "digest": "sha256:b5b3cf6fd45ce2503bae90ba4017f85d62314b427b91c06818ff39a4c46930c4",
-      "download_count": 10947,
+      "download_count": 11485,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-x86_64-unknown-linux-gnu.tar.xz"
@@ -4387,7 +4387,7 @@
       "state": "uploaded",
       "size": 3063152,
       "digest": "sha256:fb8e994fee42e159898c8f2634c05f623fe8fef2252bf2d3f751fd179c40602e",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-x86_64-unknown-linux-musl.deb"
@@ -4675,7 +4675,7 @@
       "state": "uploaded",
       "size": 3051220,
       "digest": "sha256:a2c01f82fb4cdafca1fa12cb88e4a1145dec63364dbdf92664efbaac3bb44dd2",
-      "download_count": 1842,
+      "download_count": 1904,
       "created_at": "2026-09-06T04:35:58Z",
       "updated_at": "2026-09-06T04:35:58Z",
       "browser_download_url": "https://github.com/watchexec/watchexec/releases/download/v2.7.2/watchexec-2.7.2-x86_64-unknown-linux-musl.tar.xz"
