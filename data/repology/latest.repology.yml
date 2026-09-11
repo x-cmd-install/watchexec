@@ -128,14 +128,6 @@
     - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: baulk
-  srcname: watchexec
-  binname: watchexec
-  visiblename: watchexec
-  version: 2.7.2
-  origversion: null
-  status: newest
-  summary: Execute commands in response to file modifications.
 - repo: alpine_3_21
   subrepo: community
   srcname: watchexec
@@ -227,39 +219,47 @@
     - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: alpine_3_22
-  subrepo: community
+- repo: altsisyphus
   srcname: watchexec
-  binname: watchexec-doc
-  visiblename: watchexec-doc
-  version: 2.3.2
-  origversion: 2.3.2-r0
-  status: outdated
-  summary: Executes commands in response to file modifications (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_22
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-fish-completion
-  visiblename: watchexec-fish-completion
-  version: 2.3.2
-  origversion: 2.3.2-r0
-  status: outdated
-  summary: Fish completions for watchexec
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: chocolatey
-  binname: watchexec
+  binnames:
+    - watchexec
   visiblename: watchexec
   version: 2.7.1
-  origversion: null
+  origversion: 2.7.1-alt1
   status: outdated
   summary: Executes commands in response to file modifications
+  maintainers:
+    - obirvalger@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Other
+- repo: alpine_3_22
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-doc
+  visiblename: watchexec-doc
+  version: 2.3.2
+  origversion: 2.3.2-r0
+  status: outdated
+  summary: Executes commands in response to file modifications (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-fish-completion
+  visiblename: watchexec-fish-completion
+  version: 2.3.2
+  origversion: 2.3.2-r0
+  status: outdated
+  summary: Fish completions for watchexec
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
 - repo: alpine_3_22
   subrepo: community
   srcname: watchexec
@@ -351,6 +351,17 @@
     - huajingyun@loongson.cn
   licenses:
     - Apache-2.0
+- repo: arch
+  subrepo: extra
+  srcname: watchexec
+  binname: watchexec
+  visiblename: watchexec
+  version: 2.7.2
+  origversion: 2.7.2-1
+  status: newest
+  summary: Executes commands in response to file modifications
+  licenses:
+    - Apache-2.0
 - repo: alpine_3_24
   subrepo: community
   srcname: watchexec
@@ -377,13 +388,6 @@
     - huajingyun@loongson.cn
   licenses:
     - Apache-2.0
-- repo: crates_io
-  srcname: watchexec-cli
-  visiblename: watchexec-cli
-  version: 2.7.2
-  origversion: null
-  status: newest
-  summary: Executes commands in response to file modifications
 - repo: alpine_3_24
   subrepo: community
   srcname: watchexec
@@ -490,32 +494,6 @@
     - Apache-2.0
   categories:
     - Other
-- repo: altsisyphus
-  srcname: watchexec
-  binnames:
-    - watchexec
-  visiblename: watchexec
-  version: 2.7.1
-  origversion: 2.7.1-alt1
-  status: outdated
-  summary: Executes commands in response to file modifications
-  maintainers:
-    - obirvalger@altlinux.org
-  licenses:
-    - Apache-2.0
-  categories:
-    - Other
-- repo: arch
-  subrepo: extra
-  srcname: watchexec
-  binname: watchexec
-  visiblename: watchexec
-  version: 2.7.2
-  origversion: 2.7.2-1
-  status: newest
-  summary: Executes commands in response to file modifications
-  licenses:
-    - Apache-2.0
 - repo: aur
   srcname: watchexec-git
   binname: watchexec-git
@@ -528,6 +506,28 @@
     - chocobo1@aur
   licenses:
     - Apache-2.0
+- repo: baulk
+  srcname: watchexec
+  binname: watchexec
+  visiblename: watchexec
+  version: 2.7.2
+  origversion: null
+  status: newest
+  summary: Execute commands in response to file modifications.
+- repo: chocolatey
+  binname: watchexec
+  visiblename: watchexec
+  version: 2.7.1
+  origversion: null
+  status: outdated
+  summary: Executes commands in response to file modifications
+- repo: crates_io
+  srcname: watchexec-cli
+  visiblename: watchexec-cli
+  version: 2.7.2
+  origversion: null
+  status: newest
+  summary: Executes commands in response to file modifications
 - repo: gentoo_ovl_guru
   srcname: app-misc/watchexec
   visiblename: app-misc/watchexec
@@ -725,6 +725,20 @@
     - ZLIB
   categories:
     - app-misc
+- repo: solus
+  srcname: watchexec
+  binname: watchexec
+  visiblename: watchexec
+  version: 2.3.2
+  origversion: null
+  status: outdated
+  summary: Executes commands in response to file modifications.
+  maintainers:
+    - ian@ianmjones.com
+  licenses:
+    - Apache-2.0
+  categories:
+    - system.utils
 - repo: liguros_stable
   srcname: app-misc/watchexec
   visiblename: app-misc/watchexec
@@ -950,9 +964,9 @@
   srcname: watchexec
   binname: watchexec
   visiblename: watchexec
-  version: 2.7.1
-  origversion: 2.7.1-1
-  status: outdated
+  version: 2.7.2
+  origversion: 2.7.2-1
+  status: newest
   summary: Executes commands in response to file modifications
   licenses:
     - Apache-2.0
@@ -971,9 +985,9 @@
   srcname: mingw-w64-watchexec
   binname: mingw-w64-clang-x86_64-watchexec
   visiblename: mingw-w64-clang-x86_64-watchexec
-  version: 2.7.1
-  origversion: 2.7.1-1
-  status: outdated
+  version: 2.7.2
+  origversion: 2.7.2-1
+  status: newest
   summary: Executes commands in response to file modifications (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -981,9 +995,9 @@
   srcname: mingw-w64-watchexec
   binname: mingw-w64-clang-aarch64-watchexec
   visiblename: mingw-w64-clang-aarch64-watchexec
-  version: 2.7.1
-  origversion: 2.7.1-1
-  status: outdated
+  version: 2.7.2
+  origversion: 2.7.2-1
+  status: newest
   summary: Executes commands in response to file modifications (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -991,9 +1005,9 @@
   srcname: mingw-w64-watchexec
   binname: mingw-w64-ucrt-x86_64-watchexec
   visiblename: mingw-w64-ucrt-x86_64-watchexec
-  version: 2.7.1
-  origversion: 2.7.1-1
-  status: outdated
+  version: 2.7.2
+  origversion: 2.7.2-1
+  status: newest
   summary: Executes commands in response to file modifications (mingw-w64)
   licenses:
     - spdx:Apache-2.0
@@ -1147,20 +1161,6 @@
   status: newest
   licenses:
     - Apache-2.0
-- repo: solus
-  srcname: watchexec
-  binname: watchexec
-  visiblename: watchexec
-  version: 2.3.2
-  origversion: null
-  status: outdated
-  summary: Executes commands in response to file modifications.
-  maintainers:
-    - ian@ianmjones.com
-  licenses:
-    - Apache-2.0
-  categories:
-    - system.utils
 - repo: solus
   srcname: watchexec
   binname: watchexec-dbginfo
