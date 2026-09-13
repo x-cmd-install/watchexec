@@ -1,482 +1,231 @@
-- repo: alpine_3_19
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec
-  visiblename: watchexec
-  version: 1.23.0
-  origversion: 1.23.0-r1
-  status: outdated
+- repo: liguros_stable
+  srcname: app-misc/watchexec
+  visiblename: app-misc/watchexec
+  version: 2.3.0
+  origversion: null
+  status: legacy
   summary: Executes commands in response to file modifications
   maintainers:
-    - cielesti@protonmail.com
+    - lo48576@hard-wi.red
   licenses:
     - Apache-2.0
-- repo: alpine_3_19
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-bash-completion
-  visiblename: watchexec-bash-completion
-  version: 1.23.0
-  origversion: 1.23.0-r1
-  status: outdated
-  summary: Bash completions for watchexec
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_19
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-doc
-  visiblename: watchexec-doc
-  version: 1.23.0
-  origversion: 1.23.0-r1
-  status: outdated
-  summary: Executes commands in response to file modifications (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_19
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-fish-completion
-  visiblename: watchexec-fish-completion
-  version: 1.23.0
-  origversion: 1.23.0-r1
-  status: outdated
-  summary: Fish completions for watchexec
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_19
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-zsh-completion
-  visiblename: watchexec-zsh-completion
-  version: 1.23.0
-  origversion: 1.23.0-r1
-  status: outdated
-  summary: Zsh completions for watchexec
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec
-  visiblename: watchexec
-  version: 2.1.1
-  origversion: 2.1.1-r0
-  status: outdated
-  summary: Executes commands in response to file modifications
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-bash-completion
-  visiblename: watchexec-bash-completion
-  version: 2.1.1
-  origversion: 2.1.1-r0
-  status: outdated
-  summary: Bash completions for watchexec
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-doc
-  visiblename: watchexec-doc
-  version: 2.1.1
-  origversion: 2.1.1-r0
-  status: outdated
-  summary: Executes commands in response to file modifications (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-fish-completion
-  visiblename: watchexec-fish-completion
-  version: 2.1.1
-  origversion: 2.1.1-r0
-  status: outdated
-  summary: Fish completions for watchexec
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_20
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-zsh-completion
-  visiblename: watchexec-zsh-completion
-  version: 2.1.1
-  origversion: 2.1.1-r0
-  status: outdated
-  summary: Zsh completions for watchexec
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec
-  visiblename: watchexec
-  version: 2.2.0
-  origversion: 2.2.0-r0
-  status: outdated
-  summary: Executes commands in response to file modifications
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-bash-completion
-  visiblename: watchexec-bash-completion
-  version: 2.2.0
-  origversion: 2.2.0-r0
-  status: outdated
-  summary: Bash completions for watchexec
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-doc
-  visiblename: watchexec-doc
-  version: 2.2.0
-  origversion: 2.2.0-r0
-  status: outdated
-  summary: Executes commands in response to file modifications (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-fish-completion
-  visiblename: watchexec-fish-completion
-  version: 2.2.0
-  origversion: 2.2.0-r0
-  status: outdated
-  summary: Fish completions for watchexec
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_21
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-zsh-completion
-  visiblename: watchexec-zsh-completion
-  version: 2.2.0
-  origversion: 2.2.0-r0
-  status: outdated
-  summary: Zsh completions for watchexec
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_22
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec
-  visiblename: watchexec
-  version: 2.3.2
-  origversion: 2.3.2-r0
-  status: outdated
-  summary: Executes commands in response to file modifications
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_22
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-bash-completion
-  visiblename: watchexec-bash-completion
-  version: 2.3.2
-  origversion: 2.3.2-r0
-  status: outdated
-  summary: Bash completions for watchexec
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: altsisyphus
-  srcname: watchexec
-  binnames:
-    - watchexec
-  visiblename: watchexec
-  version: 2.7.1
-  origversion: 2.7.1-alt1
-  status: outdated
-  summary: Executes commands in response to file modifications
-  maintainers:
-    - obirvalger@altlinux.org
-  licenses:
-    - Apache-2.0
+    - BSD-2
+    - BSD
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-3.0
+    - WTFPL-2
+    - ZLIB
   categories:
-    - Other
-- repo: alpine_3_22
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-doc
-  visiblename: watchexec-doc
-  version: 2.3.2
-  origversion: 2.3.2-r0
-  status: outdated
-  summary: Executes commands in response to file modifications (documentation)
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_22
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-fish-completion
-  visiblename: watchexec-fish-completion
-  version: 2.3.2
-  origversion: 2.3.2-r0
-  status: outdated
-  summary: Fish completions for watchexec
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_22
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-zsh-completion
-  visiblename: watchexec-zsh-completion
-  version: 2.3.2
-  origversion: 2.3.2-r0
-  status: outdated
-  summary: Zsh completions for watchexec
-  maintainers:
-    - cielesti@protonmail.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_23
+    - app-misc
+- repo: alpine_3_19
   subrepo: community
   srcname: watchexec
   binname: watchexec
   visiblename: watchexec
-  version: 2.3.2
-  origversion: 2.3.2-r0
+  version: 1.23.0
+  origversion: 1.23.0-r1
   status: outdated
   summary: Executes commands in response to file modifications
   maintainers:
     - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: alpine_3_23
+- repo: alpine_3_19
   subrepo: community
   srcname: watchexec
   binname: watchexec-bash-completion
   visiblename: watchexec-bash-completion
-  version: 2.3.2
-  origversion: 2.3.2-r0
+  version: 1.23.0
+  origversion: 1.23.0-r1
   status: outdated
   summary: Bash completions for watchexec
   maintainers:
     - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: alpine_3_23
+- repo: alpine_3_19
   subrepo: community
   srcname: watchexec
   binname: watchexec-doc
   visiblename: watchexec-doc
-  version: 2.3.2
-  origversion: 2.3.2-r0
+  version: 1.23.0
+  origversion: 1.23.0-r1
   status: outdated
   summary: Executes commands in response to file modifications (documentation)
   maintainers:
     - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: alpine_3_23
+- repo: alpine_3_19
   subrepo: community
   srcname: watchexec
   binname: watchexec-fish-completion
   visiblename: watchexec-fish-completion
-  version: 2.3.2
-  origversion: 2.3.2-r0
+  version: 1.23.0
+  origversion: 1.23.0-r1
   status: outdated
   summary: Fish completions for watchexec
   maintainers:
     - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: alpine_3_23
+- repo: alpine_3_19
   subrepo: community
   srcname: watchexec
   binname: watchexec-zsh-completion
   visiblename: watchexec-zsh-completion
-  version: 2.3.2
-  origversion: 2.3.2-r0
+  version: 1.23.0
+  origversion: 1.23.0-r1
   status: outdated
   summary: Zsh completions for watchexec
   maintainers:
     - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: alpine_3_24
+- repo: alpine_3_20
   subrepo: community
   srcname: watchexec
   binname: watchexec
   visiblename: watchexec
-  version: 2.3.2
-  origversion: 2.3.2-r1
+  version: 2.1.1
+  origversion: 2.1.1-r0
   status: outdated
   summary: Executes commands in response to file modifications
   maintainers:
-    - huajingyun@loongson.cn
+    - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: arch
-  subrepo: extra
-  srcname: watchexec
-  binname: watchexec
-  visiblename: watchexec
-  version: 2.7.2
-  origversion: 2.7.2-1
-  status: newest
-  summary: Executes commands in response to file modifications
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_24
+- repo: alpine_3_20
   subrepo: community
   srcname: watchexec
   binname: watchexec-bash-completion
   visiblename: watchexec-bash-completion
-  version: 2.3.2
-  origversion: 2.3.2-r1
+  version: 2.1.1
+  origversion: 2.1.1-r0
   status: outdated
   summary: Bash completions for watchexec
   maintainers:
-    - huajingyun@loongson.cn
+    - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: alpine_3_24
+- repo: alpine_3_20
   subrepo: community
   srcname: watchexec
   binname: watchexec-doc
   visiblename: watchexec-doc
-  version: 2.3.2
-  origversion: 2.3.2-r1
+  version: 2.1.1
+  origversion: 2.1.1-r0
   status: outdated
   summary: Executes commands in response to file modifications (documentation)
   maintainers:
-    - huajingyun@loongson.cn
+    - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: alpine_3_24
+- repo: alpine_3_20
   subrepo: community
   srcname: watchexec
   binname: watchexec-fish-completion
   visiblename: watchexec-fish-completion
-  version: 2.3.2
-  origversion: 2.3.2-r1
+  version: 2.1.1
+  origversion: 2.1.1-r0
   status: outdated
   summary: Fish completions for watchexec
   maintainers:
-    - huajingyun@loongson.cn
+    - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: alpine_3_24
+- repo: alpine_3_20
   subrepo: community
   srcname: watchexec
   binname: watchexec-zsh-completion
   visiblename: watchexec-zsh-completion
-  version: 2.3.2
-  origversion: 2.3.2-r1
+  version: 2.1.1
+  origversion: 2.1.1-r0
   status: outdated
   summary: Zsh completions for watchexec
   maintainers:
-    - huajingyun@loongson.cn
+    - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: alpine_edge
+- repo: alpine_3_21
   subrepo: community
   srcname: watchexec
   binname: watchexec
   visiblename: watchexec
-  version: 2.5.1
-  origversion: 2.5.1-r0
+  version: 2.2.0
+  origversion: 2.2.0-r0
   status: outdated
   summary: Executes commands in response to file modifications
   maintainers:
-    - huajingyun@loongson.cn
+    - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: alpine_edge
+- repo: alpine_3_21
   subrepo: community
   srcname: watchexec
   binname: watchexec-bash-completion
   visiblename: watchexec-bash-completion
-  version: 2.5.1
-  origversion: 2.5.1-r0
+  version: 2.2.0
+  origversion: 2.2.0-r0
   status: outdated
   summary: Bash completions for watchexec
   maintainers:
-    - huajingyun@loongson.cn
+    - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: alpine_edge
+- repo: alpine_3_21
   subrepo: community
   srcname: watchexec
   binname: watchexec-doc
   visiblename: watchexec-doc
-  version: 2.5.1
-  origversion: 2.5.1-r0
+  version: 2.2.0
+  origversion: 2.2.0-r0
   status: outdated
   summary: Executes commands in response to file modifications (documentation)
   maintainers:
-    - huajingyun@loongson.cn
+    - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: alpine_edge
+- repo: alpine_3_21
   subrepo: community
   srcname: watchexec
   binname: watchexec-fish-completion
   visiblename: watchexec-fish-completion
-  version: 2.5.1
-  origversion: 2.5.1-r0
+  version: 2.2.0
+  origversion: 2.2.0-r0
   status: outdated
   summary: Fish completions for watchexec
   maintainers:
-    - huajingyun@loongson.cn
+    - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: alpine_edge
+- repo: alpine_3_21
   subrepo: community
   srcname: watchexec
   binname: watchexec-zsh-completion
   visiblename: watchexec-zsh-completion
-  version: 2.5.1
-  origversion: 2.5.1-r0
+  version: 2.2.0
+  origversion: 2.2.0-r0
   status: outdated
   summary: Zsh completions for watchexec
   maintainers:
-    - huajingyun@loongson.cn
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec
+  visiblename: watchexec
+  version: 2.3.2
+  origversion: 2.3.2-r0
+  status: outdated
+  summary: Executes commands in response to file modifications
+  maintainers:
+    - cielesti@protonmail.com
   licenses:
     - Apache-2.0
 - repo: alt_p11
@@ -494,6 +243,301 @@
     - Apache-2.0
   categories:
     - Other
+- repo: alpine_3_22
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-bash-completion
+  visiblename: watchexec-bash-completion
+  version: 2.3.2
+  origversion: 2.3.2-r0
+  status: outdated
+  summary: Bash completions for watchexec
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-doc
+  visiblename: watchexec-doc
+  version: 2.3.2
+  origversion: 2.3.2-r0
+  status: outdated
+  summary: Executes commands in response to file modifications (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-fish-completion
+  visiblename: watchexec-fish-completion
+  version: 2.3.2
+  origversion: 2.3.2-r0
+  status: outdated
+  summary: Fish completions for watchexec
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-zsh-completion
+  visiblename: watchexec-zsh-completion
+  version: 2.3.2
+  origversion: 2.3.2-r0
+  status: outdated
+  summary: Zsh completions for watchexec
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec
+  visiblename: watchexec
+  version: 2.3.2
+  origversion: 2.3.2-r0
+  status: outdated
+  summary: Executes commands in response to file modifications
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-bash-completion
+  visiblename: watchexec-bash-completion
+  version: 2.3.2
+  origversion: 2.3.2-r0
+  status: outdated
+  summary: Bash completions for watchexec
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-doc
+  visiblename: watchexec-doc
+  version: 2.3.2
+  origversion: 2.3.2-r0
+  status: outdated
+  summary: Executes commands in response to file modifications (documentation)
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-fish-completion
+  visiblename: watchexec-fish-completion
+  version: 2.3.2
+  origversion: 2.3.2-r0
+  status: outdated
+  summary: Fish completions for watchexec
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-zsh-completion
+  visiblename: watchexec-zsh-completion
+  version: 2.3.2
+  origversion: 2.3.2-r0
+  status: outdated
+  summary: Zsh completions for watchexec
+  maintainers:
+    - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: liguros_stable
+  srcname: app-misc/watchexec
+  visiblename: app-misc/watchexec
+  version: 2.3.2
+  origversion: null
+  status: outdated
+  summary: Executes commands in response to file modifications
+  maintainers:
+    - lo48576@hard-wi.red
+  licenses:
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-3.0
+    - WTFPL-2
+    - ZLIB
+  categories:
+    - app-misc
+- repo: alpine_3_24
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec
+  visiblename: watchexec
+  version: 2.3.2
+  origversion: 2.3.2-r1
+  status: outdated
+  summary: Executes commands in response to file modifications
+  maintainers:
+    - huajingyun@loongson.cn
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-bash-completion
+  visiblename: watchexec-bash-completion
+  version: 2.3.2
+  origversion: 2.3.2-r1
+  status: outdated
+  summary: Bash completions for watchexec
+  maintainers:
+    - huajingyun@loongson.cn
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-doc
+  visiblename: watchexec-doc
+  version: 2.3.2
+  origversion: 2.3.2-r1
+  status: outdated
+  summary: Executes commands in response to file modifications (documentation)
+  maintainers:
+    - huajingyun@loongson.cn
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-fish-completion
+  visiblename: watchexec-fish-completion
+  version: 2.3.2
+  origversion: 2.3.2-r1
+  status: outdated
+  summary: Fish completions for watchexec
+  maintainers:
+    - huajingyun@loongson.cn
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-zsh-completion
+  visiblename: watchexec-zsh-completion
+  version: 2.3.2
+  origversion: 2.3.2-r1
+  status: outdated
+  summary: Zsh completions for watchexec
+  maintainers:
+    - huajingyun@loongson.cn
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec
+  visiblename: watchexec
+  version: 2.5.1
+  origversion: 2.5.1-r0
+  status: outdated
+  summary: Executes commands in response to file modifications
+  maintainers:
+    - huajingyun@loongson.cn
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-bash-completion
+  visiblename: watchexec-bash-completion
+  version: 2.5.1
+  origversion: 2.5.1-r0
+  status: outdated
+  summary: Bash completions for watchexec
+  maintainers:
+    - huajingyun@loongson.cn
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-doc
+  visiblename: watchexec-doc
+  version: 2.5.1
+  origversion: 2.5.1-r0
+  status: outdated
+  summary: Executes commands in response to file modifications (documentation)
+  maintainers:
+    - huajingyun@loongson.cn
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-fish-completion
+  visiblename: watchexec-fish-completion
+  version: 2.5.1
+  origversion: 2.5.1-r0
+  status: outdated
+  summary: Fish completions for watchexec
+  maintainers:
+    - huajingyun@loongson.cn
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-zsh-completion
+  visiblename: watchexec-zsh-completion
+  version: 2.5.1
+  origversion: 2.5.1-r0
+  status: outdated
+  summary: Zsh completions for watchexec
+  maintainers:
+    - huajingyun@loongson.cn
+  licenses:
+    - Apache-2.0
+- repo: altsisyphus
+  srcname: watchexec
+  binnames:
+    - watchexec
+  visiblename: watchexec
+  version: 2.7.2
+  origversion: 2.7.2-alt1
+  status: newest
+  summary: Executes commands in response to file modifications
+  maintainers:
+    - obirvalger@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Other
+- repo: arch
+  subrepo: extra
+  srcname: watchexec
+  binname: watchexec
+  visiblename: watchexec
+  version: 2.7.2
+  origversion: 2.7.2-1
+  status: newest
+  summary: Executes commands in response to file modifications
+  licenses:
+    - Apache-2.0
 - repo: aur
   srcname: watchexec-git
   binname: watchexec-git
@@ -681,64 +725,18 @@
   origversion: null
   status: rolling
   summary: Execute commands when watched files change
-- repo: liguros_stable
-  srcname: app-misc/watchexec
-  visiblename: app-misc/watchexec
-  version: 2.3.2
-  origversion: null
-  status: outdated
-  summary: Executes commands in response to file modifications
-  maintainers:
-    - lo48576@hard-wi.red
-  licenses:
-    - Apache-2.0
-    - BSD-2
-    - BSD
-    - CC0-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-    - Unicode-3.0
-    - WTFPL-2
-    - ZLIB
-  categories:
-    - app-misc
-- repo: liguros_stable
-  srcname: app-misc/watchexec
-  visiblename: app-misc/watchexec
-  version: 2.3.0
-  origversion: null
-  status: legacy
-  summary: Executes commands in response to file modifications
-  maintainers:
-    - lo48576@hard-wi.red
-  licenses:
-    - Apache-2.0
-    - BSD-2
-    - BSD
-    - CC0-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-    - Unicode-3.0
-    - WTFPL-2
-    - ZLIB
-  categories:
-    - app-misc
-- repo: solus
+- repo: nix_stable_26_05
   srcname: watchexec
-  binname: watchexec
   visiblename: watchexec
-  version: 2.3.2
+  version: 2.5.1
   origversion: null
   status: outdated
-  summary: Executes commands in response to file modifications.
+  summary: Executes commands in response to file modifications
   maintainers:
-    - ian@ianmjones.com
+    - m@michalrus.com
+    - prc.zhao@outlook.com
   licenses:
     - Apache-2.0
-  categories:
-    - system.utils
 - repo: liguros_stable
   srcname: app-misc/watchexec
   visiblename: app-misc/watchexec
@@ -1056,18 +1054,6 @@
     - prc.zhao@outlook.com
   licenses:
     - Apache-2.0
-- repo: nix_stable_26_05
-  srcname: watchexec
-  visiblename: watchexec
-  version: 2.5.1
-  origversion: null
-  status: outdated
-  summary: Executes commands in response to file modifications
-  maintainers:
-    - m@michalrus.com
-    - prc.zhao@outlook.com
-  licenses:
-    - Apache-2.0
 - repo: nix_unstable
   srcname: watchexec
   visiblename: watchexec
@@ -1161,6 +1147,20 @@
   status: newest
   licenses:
     - Apache-2.0
+- repo: solus
+  srcname: watchexec
+  binname: watchexec
+  visiblename: watchexec
+  version: 2.3.2
+  origversion: null
+  status: outdated
+  summary: Executes commands in response to file modifications.
+  maintainers:
+    - ian@ianmjones.com
+  licenses:
+    - Apache-2.0
+  categories:
+    - system.utils
 - repo: solus
   srcname: watchexec
   binname: watchexec-dbginfo
