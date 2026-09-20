@@ -4,7 +4,7 @@
 
 Executes commands in response to file modifications
 
-![watchexec](https://repo.x-cmd.io/watchexec.svg)
+[![x-cmd/install — watchexec Code Quality Monitoring Repo Card](https://repo.x-cmd.io/watchexec.svg)](https://x-cmd.com/install/watchexec)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 6 | 21 | 6 | 2 | 3 | 63 |
-| last60d | 2026-07-20 | 6 | 43 | 6 | 3 | 3 | 90 |
-| 90d | 2026-06-20 | 6 | 45 | 6 | 3 | 3 | 93 |
-| last180d | 2026-03-22 | 7 | 52 | 6 | 7 | 3 | 105 |
-| 360d | 2025-09-23 | 13 | 73 | 6 | 12 | 6 | 152 |
-| last720d | 2024-09-28 | 18 | 87 | 6 | 43 | 9 | 327 |
+| 30d | 2026-08-21 | 6 | 20 | 6 | 2 | 3 | 63 |
+| last60d | 2026-07-22 | 6 | 43 | 6 | 3 | 3 | 90 |
+| 90d | 2026-06-22 | 6 | 45 | 6 | 3 | 3 | 93 |
+| last180d | 2026-03-24 | 7 | 52 | 6 | 5 | 3 | 105 |
+| 360d | 2025-09-25 | 13 | 73 | 6 | 12 | 6 | 152 |
+| last720d | 2024-09-30 | 18 | 87 | 6 | 43 | 9 | 327 |
 
 ## Release assets
 
@@ -211,4 +211,4 @@ Install metadata for watchexec lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:42:07Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:55:42Z._
