@@ -4,7 +4,7 @@
 
 Executes commands in response to file modifications
 
-[![x-cmd/install — watchexec Code Quality Monitoring Repo Card](https://repo.x-cmd.io/watchexec.svg)](https://x-cmd.com/install/watchexec)
+[![x-cmd/install — watchexec Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/watchexec.svg)](https://x-cmd.com/install/watchexec)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,193 · **Forks**: 201 · **Open issues**: 369 · **Contributors**: 84
+- **Stars**: 7,194 · **Forks**: 202 · **Open issues**: 369 · **Contributors**: 84
 
 ## Totals (cumulative)
 
-- **Releases**: 118 · **Merged PRs**: 377 · **Open PRs**: 6 · **Closed issues**: 340 · **Open issues**: 29 · **Commits**: 1688
+- **Releases**: 118 · **Merged PRs**: 377 · **Open PRs**: 7 · **Closed issues**: 340 · **Open issues**: 29 · **Commits**: 1688
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 12 | 6 | 2 | 1 | 17 |
-| last60d | 2026-07-24 | 6 | 43 | 6 | 3 | 3 | 89 |
-| 90d | 2026-06-24 | 6 | 45 | 6 | 3 | 3 | 93 |
-| last180d | 2026-03-26 | 7 | 51 | 6 | 5 | 3 | 101 |
-| 360d | 2025-09-27 | 13 | 73 | 6 | 12 | 6 | 152 |
-| last720d | 2024-10-02 | 18 | 87 | 6 | 43 | 9 | 327 |
+| 30d | 2026-08-24 | 4 | 9 | 7 | 2 | 1 | 17 |
+| last60d | 2026-07-25 | 6 | 42 | 7 | 3 | 3 | 89 |
+| 90d | 2026-06-25 | 6 | 45 | 7 | 3 | 3 | 93 |
+| last180d | 2026-03-27 | 7 | 51 | 7 | 5 | 3 | 101 |
+| 360d | 2025-09-28 | 13 | 73 | 7 | 12 | 6 | 152 |
+| last720d | 2024-10-03 | 18 | 87 | 7 | 43 | 9 | 327 |
 
 ## Release assets
 
@@ -211,4 +211,4 @@ Install metadata for watchexec lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:54:48Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:45:02Z._

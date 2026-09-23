@@ -4,7 +4,7 @@
 
 Executes commands in response to file modifications
 
-[![x-cmd/install — watchexec Code Quality Monitoring Repo Card](https://repo.x-cmd.io/watchexec.svg?lang=zh)](https://x-cmd.com/install/watchexec)
+[![x-cmd/install — watchexec Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/watchexec.svg?lang=zh)](https://x-cmd.com/install/watchexec)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install watchexec
 
 ## 流行度
 
-- **Star**: 7,193 · **Fork**: 201 · **开放 issue**: 369 · **贡献者**: 84
+- **Star**: 7,194 · **Fork**: 202 · **开放 issue**: 369 · **贡献者**: 84
 
 ## 累计统计
 
-- **发布数**: 118 · **已合并 PR**: 377 · **开放 PR**: 6 · **已关闭 issue**: 340 · **开放 issue**: 29 · **提交数**: 1688
+- **发布数**: 118 · **已合并 PR**: 377 · **开放 PR**: 7 · **已关闭 issue**: 340 · **开放 issue**: 29 · **提交数**: 1688
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 12 | 6 | 2 | 1 | 17 |
-| last60d | 2026-07-24 | 6 | 43 | 6 | 3 | 3 | 89 |
-| 90d | 2026-06-24 | 6 | 45 | 6 | 3 | 3 | 93 |
-| last180d | 2026-03-26 | 7 | 51 | 6 | 5 | 3 | 101 |
-| 360d | 2025-09-27 | 13 | 73 | 6 | 12 | 6 | 152 |
-| last720d | 2024-10-02 | 18 | 87 | 6 | 43 | 9 | 327 |
+| 30d | 2026-08-24 | 4 | 9 | 7 | 2 | 1 | 17 |
+| last60d | 2026-07-25 | 6 | 42 | 7 | 3 | 3 | 89 |
+| 90d | 2026-06-25 | 6 | 45 | 7 | 3 | 3 | 93 |
+| last180d | 2026-03-27 | 7 | 51 | 7 | 5 | 3 | 101 |
+| 360d | 2025-09-28 | 13 | 73 | 7 | 12 | 6 | 152 |
+| last720d | 2024-10-03 | 18 | 87 | 7 | 43 | 9 | 327 |
 
 ## Release 资产
 
@@ -211,4 +211,4 @@ watchexec 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:54:49Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:45:03Z._
