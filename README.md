@@ -14,11 +14,11 @@ x install watchexec
 
 ## Code insight
 
-Total: **23,293** lines of code across **142** files in the top 5 languages.
+Total: **23,378** lines of code across **142** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 21,753 | 394 | 2,994 | 114 |
+| Rust | 21,838 | 394 | 3,007 | 114 |
 | Toml | 805 | 18 | 164 | 18 |
 | Svg | 307 | 0 | 0 | 1 |
 | Json | 248 | 0 | 0 | 8 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.7.3` (2026-09-15)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-29
 - **Assets in release**: 132
 
 ## Popularity
 
-- **Stars**: 7,204 · **Forks**: 203 · **Open issues**: 369 · **Contributors**: 85
+- **Stars**: 7,207 · **Forks**: 205 · **Open issues**: 370 · **Contributors**: 87
 
 ## Totals (cumulative)
 
-- **Releases**: 118 · **Merged PRs**: 378 · **Open PRs**: 7 · **Closed issues**: 340 · **Open issues**: 29 · **Commits**: 1690
+- **Releases**: 118 · **Merged PRs**: 382 · **Open PRs**: 5 · **Closed issues**: 340 · **Open issues**: 30 · **Commits**: 1698
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 3 | 10 | 7 | 2 | 1 | 12 |
-| last60d | 2026-07-31 | 6 | 43 | 7 | 3 | 3 | 84 |
-| 90d | 2026-07-01 | 6 | 46 | 7 | 3 | 3 | 94 |
-| last180d | 2026-04-02 | 6 | 51 | 7 | 4 | 3 | 101 |
-| 360d | 2025-10-04 | 13 | 74 | 7 | 12 | 6 | 152 |
-| last720d | 2024-10-09 | 18 | 88 | 7 | 43 | 9 | 329 |
+| 30d | 2026-08-31 | 3 | 13 | 5 | 2 | 2 | 16 |
+| last60d | 2026-08-01 | 6 | 46 | 5 | 3 | 4 | 88 |
+| 90d | 2026-07-02 | 6 | 50 | 5 | 3 | 4 | 98 |
+| last180d | 2026-04-03 | 6 | 55 | 5 | 4 | 4 | 105 |
+| 360d | 2025-10-05 | 13 | 78 | 5 | 12 | 7 | 156 |
+| last720d | 2024-10-10 | 18 | 92 | 5 | 43 | 10 | 337 |
 
 ## Release assets
 
@@ -211,4 +211,4 @@ Install metadata for watchexec lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:42:39Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:33:34Z._
