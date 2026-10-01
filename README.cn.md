@@ -26,11 +26,11 @@ x install watchexec
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.2 / 10**
+总评分: **4.3 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 3/10 approved changesets -- score normalized to 3
+- **Code-Review** (4/10) — Found 5/11 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,7 +48,7 @@ x install watchexec
 
 ## 流行度
 
-- **Star**: 7,207 · **Fork**: 205 · **开放 issue**: 370 · **贡献者**: 87
+- **Star**: 7,209 · **Fork**: 205 · **开放 issue**: 370 · **贡献者**: 87
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install watchexec
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 3 | 13 | 5 | 2 | 2 | 16 |
-| last60d | 2026-08-01 | 6 | 46 | 5 | 3 | 4 | 88 |
-| 90d | 2026-07-02 | 6 | 50 | 5 | 3 | 4 | 98 |
-| last180d | 2026-04-03 | 6 | 55 | 5 | 4 | 4 | 105 |
-| 360d | 2025-10-05 | 13 | 78 | 5 | 12 | 7 | 156 |
-| last720d | 2024-10-10 | 18 | 92 | 5 | 43 | 10 | 337 |
+| 30d | 2026-09-01 | 3 | 12 | 4 | 2 | 2 | 16 |
+| last60d | 2026-08-02 | 6 | 46 | 5 | 3 | 4 | 88 |
+| 90d | 2026-07-03 | 6 | 50 | 5 | 3 | 4 | 98 |
+| last180d | 2026-04-04 | 6 | 55 | 5 | 4 | 4 | 105 |
+| 360d | 2025-10-06 | 13 | 77 | 5 | 12 | 7 | 156 |
+| last720d | 2024-10-11 | 18 | 92 | 5 | 43 | 10 | 337 |
 
 ## Release 资产
 
@@ -211,4 +211,4 @@ watchexec 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T05:33:34Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T05:43:57Z._
