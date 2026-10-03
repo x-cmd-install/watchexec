@@ -14,12 +14,12 @@ x install watchexec
 
 ## Code insight
 
-Total: **23,378** lines of code across **142** files in the top 5 languages.
+Total: **23,425** lines of code across **142** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 21,838 | 394 | 3,007 | 114 |
-| Toml | 805 | 18 | 164 | 18 |
+| Rust | 21,884 | 448 | 3,018 | 114 |
+| Toml | 806 | 18 | 164 | 18 |
 | Svg | 307 | 0 | 0 | 1 |
 | Json | 248 | 0 | 0 | 8 |
 | Python | 109 | 1 | 33 | 1 |
@@ -42,165 +42,165 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.7.3` (2026-09-15)
-- **Last commit**: 2026-09-29
+- **Latest**: `v2.7.4` (2026-10-02)
+- **Last commit**: 2026-10-02
 - **Assets in release**: 132
 
 ## Popularity
 
-- **Stars**: 7,211 · **Forks**: 205 · **Open issues**: 370 · **Contributors**: 87
+- **Stars**: 7,211 · **Forks**: 206 · **Open issues**: 370 · **Contributors**: 87
 
 ## Totals (cumulative)
 
-- **Releases**: 118 · **Merged PRs**: 382 · **Open PRs**: 4 · **Closed issues**: 340 · **Open issues**: 30 · **Commits**: 1698
+- **Releases**: 119 · **Merged PRs**: 389 · **Open PRs**: 0 · **Closed issues**: 340 · **Open issues**: 30 · **Commits**: 1721
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 3 | 11 | 4 | 2 | 2 | 16 |
-| last60d | 2026-08-03 | 6 | 41 | 4 | 3 | 4 | 88 |
-| 90d | 2026-07-04 | 6 | 50 | 4 | 3 | 4 | 98 |
-| last180d | 2026-04-05 | 6 | 55 | 4 | 4 | 4 | 105 |
-| 360d | 2025-10-07 | 13 | 77 | 4 | 12 | 7 | 156 |
-| last720d | 2024-10-12 | 18 | 92 | 4 | 43 | 10 | 337 |
+| 30d | 2026-09-03 | 4 | 17 | 0 | 2 | 2 | 32 |
+| last60d | 2026-08-04 | 7 | 48 | 0 | 3 | 4 | 104 |
+| 90d | 2026-07-05 | 7 | 57 | 0 | 3 | 4 | 114 |
+| last180d | 2026-04-06 | 7 | 61 | 0 | 4 | 4 | 121 |
+| 360d | 2025-10-08 | 14 | 84 | 0 | 12 | 7 | 172 |
+| last720d | 2024-10-13 | 19 | 99 | 0 | 42 | 10 | 360 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [B3SUMS](https://github.com/watchexec/watchexec/releases/download/v2.7.3/B3SUMS) | 3.5 KiB | `other` |
-| [dist-manifest.json](https://github.com/watchexec/watchexec/releases/download/v2.7.3/dist-manifest.json) | 8.6 KiB | `other` |
-| [SHA256SUMS](https://github.com/watchexec/watchexec/releases/download/v2.7.3/SHA256SUMS) | 3.5 KiB | `other` |
-| [SHA512SUMS](https://github.com/watchexec/watchexec/releases/download/v2.7.3/SHA512SUMS) | 5.5 KiB | `other` |
-| [watchexec-2.7.3-aarch64-apple-darwin.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-apple-darwin.tar.xz) | 2.0 MiB | `native/darwin/arm64` |
-| [watchexec-2.7.3-aarch64-apple-darwin.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-apple-darwin.tar.xz.b3) | 65 B | `native/darwin/arm64` |
-| [watchexec-2.7.3-aarch64-apple-darwin.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-apple-darwin.tar.xz.sha256) | 65 B | `native/darwin/arm64` |
-| [watchexec-2.7.3-aarch64-apple-darwin.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-apple-darwin.tar.xz.sha512) | 129 B | `native/darwin/arm64` |
-| [watchexec-2.7.3-aarch64-pc-windows-msvc.zip](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/arm64` |
-| [watchexec-2.7.3-aarch64-pc-windows-msvc.zip.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-pc-windows-msvc.zip.b3) | 65 B | `native/win/arm64` |
-| [watchexec-2.7.3-aarch64-pc-windows-msvc.zip.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-pc-windows-msvc.zip.sha256) | 65 B | `native/win/arm64` |
-| [watchexec-2.7.3-aarch64-pc-windows-msvc.zip.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-pc-windows-msvc.zip.sha512) | 129 B | `native/win/arm64` |
-| [watchexec-2.7.3-aarch64-unknown-linux-gnu.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-gnu.deb) | 2.4 MiB | `native/linux/arm64/glibc` |
-| [watchexec-2.7.3-aarch64-unknown-linux-gnu.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-gnu.deb.b3) | 65 B | `native/linux/arm64/glibc` |
-| [watchexec-2.7.3-aarch64-unknown-linux-gnu.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-gnu.deb.sha256) | 65 B | `native/linux/arm64/glibc` |
-| [watchexec-2.7.3-aarch64-unknown-linux-gnu.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-gnu.deb.sha512) | 129 B | `native/linux/arm64/glibc` |
-| [watchexec-2.7.3-aarch64-unknown-linux-gnu.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-gnu.rpm) | 2.8 MiB | `native/linux/arm64/glibc` |
-| [watchexec-2.7.3-aarch64-unknown-linux-gnu.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-gnu.rpm.b3) | 65 B | `native/linux/arm64/glibc` |
-| [watchexec-2.7.3-aarch64-unknown-linux-gnu.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-gnu.rpm.sha256) | 65 B | `native/linux/arm64/glibc` |
-| [watchexec-2.7.3-aarch64-unknown-linux-gnu.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-gnu.rpm.sha512) | 129 B | `native/linux/arm64/glibc` |
-| [watchexec-2.7.3-aarch64-unknown-linux-gnu.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-gnu.tar.xz) | 2.4 MiB | `native/linux/arm64/glibc` |
-| [watchexec-2.7.3-aarch64-unknown-linux-gnu.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-gnu.tar.xz.b3) | 65 B | `native/linux/arm64/glibc` |
-| [watchexec-2.7.3-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-gnu.tar.xz.sha256) | 65 B | `native/linux/arm64/glibc` |
-| [watchexec-2.7.3-aarch64-unknown-linux-gnu.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-gnu.tar.xz.sha512) | 129 B | `native/linux/arm64/glibc` |
-| [watchexec-2.7.3-aarch64-unknown-linux-musl.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-musl.deb) | 2.5 MiB | `native/linux/arm64/musl` |
-| [watchexec-2.7.3-aarch64-unknown-linux-musl.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-musl.deb.b3) | 65 B | `native/linux/arm64/musl` |
-| [watchexec-2.7.3-aarch64-unknown-linux-musl.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-musl.deb.sha256) | 65 B | `native/linux/arm64/musl` |
-| [watchexec-2.7.3-aarch64-unknown-linux-musl.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-musl.deb.sha512) | 129 B | `native/linux/arm64/musl` |
-| [watchexec-2.7.3-aarch64-unknown-linux-musl.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-musl.rpm) | 2.9 MiB | `native/linux/arm64/musl` |
-| [watchexec-2.7.3-aarch64-unknown-linux-musl.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-musl.rpm.b3) | 65 B | `native/linux/arm64/musl` |
-| [watchexec-2.7.3-aarch64-unknown-linux-musl.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-musl.rpm.sha256) | 65 B | `native/linux/arm64/musl` |
-| [watchexec-2.7.3-aarch64-unknown-linux-musl.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-musl.rpm.sha512) | 129 B | `native/linux/arm64/musl` |
-| [watchexec-2.7.3-aarch64-unknown-linux-musl.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-musl.tar.xz) | 2.5 MiB | `native/linux/arm64/musl` |
-| [watchexec-2.7.3-aarch64-unknown-linux-musl.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-musl.tar.xz.b3) | 65 B | `native/linux/arm64/musl` |
-| [watchexec-2.7.3-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-musl.tar.xz.sha256) | 65 B | `native/linux/arm64/musl` |
-| [watchexec-2.7.3-aarch64-unknown-linux-musl.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-aarch64-unknown-linux-musl.tar.xz.sha512) | 129 B | `native/linux/arm64/musl` |
-| [watchexec-2.7.3-armv7-unknown-linux-gnueabihf.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-armv7-unknown-linux-gnueabihf.deb) | 2.5 MiB | `native/linux/arm/glibc` |
-| [watchexec-2.7.3-armv7-unknown-linux-gnueabihf.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-armv7-unknown-linux-gnueabihf.deb.b3) | 65 B | `native/linux/arm/glibc` |
-| [watchexec-2.7.3-armv7-unknown-linux-gnueabihf.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-armv7-unknown-linux-gnueabihf.deb.sha256) | 65 B | `native/linux/arm/glibc` |
-| [watchexec-2.7.3-armv7-unknown-linux-gnueabihf.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-armv7-unknown-linux-gnueabihf.deb.sha512) | 129 B | `native/linux/arm/glibc` |
-| [watchexec-2.7.3-armv7-unknown-linux-gnueabihf.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-armv7-unknown-linux-gnueabihf.rpm) | 2.9 MiB | `native/linux/arm/glibc` |
-| [watchexec-2.7.3-armv7-unknown-linux-gnueabihf.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-armv7-unknown-linux-gnueabihf.rpm.b3) | 65 B | `native/linux/arm/glibc` |
-| [watchexec-2.7.3-armv7-unknown-linux-gnueabihf.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-armv7-unknown-linux-gnueabihf.rpm.sha256) | 65 B | `native/linux/arm/glibc` |
-| [watchexec-2.7.3-armv7-unknown-linux-gnueabihf.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-armv7-unknown-linux-gnueabihf.rpm.sha512) | 129 B | `native/linux/arm/glibc` |
-| [watchexec-2.7.3-armv7-unknown-linux-gnueabihf.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-armv7-unknown-linux-gnueabihf.tar.xz) | 2.5 MiB | `native/linux/arm/glibc` |
-| [watchexec-2.7.3-armv7-unknown-linux-gnueabihf.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-armv7-unknown-linux-gnueabihf.tar.xz.b3) | 65 B | `native/linux/arm/glibc` |
-| [watchexec-2.7.3-armv7-unknown-linux-gnueabihf.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-armv7-unknown-linux-gnueabihf.tar.xz.sha256) | 65 B | `native/linux/arm/glibc` |
-| [watchexec-2.7.3-armv7-unknown-linux-gnueabihf.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-armv7-unknown-linux-gnueabihf.tar.xz.sha512) | 129 B | `native/linux/arm/glibc` |
-| [watchexec-2.7.3-i686-unknown-linux-musl.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-i686-unknown-linux-musl.deb) | 3.0 MiB | `native/linux/x86/musl` |
-| [watchexec-2.7.3-i686-unknown-linux-musl.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-i686-unknown-linux-musl.deb.b3) | 65 B | `native/linux/x86/musl` |
-| [watchexec-2.7.3-i686-unknown-linux-musl.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-i686-unknown-linux-musl.deb.sha256) | 65 B | `native/linux/x86/musl` |
-| [watchexec-2.7.3-i686-unknown-linux-musl.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-i686-unknown-linux-musl.deb.sha512) | 129 B | `native/linux/x86/musl` |
-| [watchexec-2.7.3-i686-unknown-linux-musl.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-i686-unknown-linux-musl.rpm) | 3.2 MiB | `native/linux/x86/musl` |
-| [watchexec-2.7.3-i686-unknown-linux-musl.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-i686-unknown-linux-musl.rpm.b3) | 65 B | `native/linux/x86/musl` |
-| [watchexec-2.7.3-i686-unknown-linux-musl.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-i686-unknown-linux-musl.rpm.sha256) | 65 B | `native/linux/x86/musl` |
-| [watchexec-2.7.3-i686-unknown-linux-musl.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-i686-unknown-linux-musl.rpm.sha512) | 129 B | `native/linux/x86/musl` |
-| [watchexec-2.7.3-i686-unknown-linux-musl.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-i686-unknown-linux-musl.tar.xz) | 3.0 MiB | `native/linux/x86/musl` |
-| [watchexec-2.7.3-i686-unknown-linux-musl.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-i686-unknown-linux-musl.tar.xz.b3) | 65 B | `native/linux/x86/musl` |
-| [watchexec-2.7.3-i686-unknown-linux-musl.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-i686-unknown-linux-musl.tar.xz.sha256) | 65 B | `native/linux/x86/musl` |
-| [watchexec-2.7.3-i686-unknown-linux-musl.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-i686-unknown-linux-musl.tar.xz.sha512) | 129 B | `native/linux/x86/musl` |
-| [watchexec-2.7.3-powerpc64le-unknown-linux-gnu.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-powerpc64le-unknown-linux-gnu.deb) | 2.7 MiB | `other` |
-| [watchexec-2.7.3-powerpc64le-unknown-linux-gnu.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-powerpc64le-unknown-linux-gnu.deb.b3) | 65 B | `other` |
-| [watchexec-2.7.3-powerpc64le-unknown-linux-gnu.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-powerpc64le-unknown-linux-gnu.deb.sha256) | 65 B | `other` |
-| [watchexec-2.7.3-powerpc64le-unknown-linux-gnu.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-powerpc64le-unknown-linux-gnu.deb.sha512) | 129 B | `other` |
-| [watchexec-2.7.3-powerpc64le-unknown-linux-gnu.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-powerpc64le-unknown-linux-gnu.rpm) | 3.1 MiB | `other` |
-| [watchexec-2.7.3-powerpc64le-unknown-linux-gnu.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-powerpc64le-unknown-linux-gnu.rpm.b3) | 65 B | `other` |
-| [watchexec-2.7.3-powerpc64le-unknown-linux-gnu.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-powerpc64le-unknown-linux-gnu.rpm.sha256) | 65 B | `other` |
-| [watchexec-2.7.3-powerpc64le-unknown-linux-gnu.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-powerpc64le-unknown-linux-gnu.rpm.sha512) | 129 B | `other` |
-| [watchexec-2.7.3-powerpc64le-unknown-linux-gnu.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-powerpc64le-unknown-linux-gnu.tar.xz) | 2.7 MiB | `other` |
-| [watchexec-2.7.3-powerpc64le-unknown-linux-gnu.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-powerpc64le-unknown-linux-gnu.tar.xz.b3) | 65 B | `other` |
-| [watchexec-2.7.3-powerpc64le-unknown-linux-gnu.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-powerpc64le-unknown-linux-gnu.tar.xz.sha256) | 65 B | `other` |
-| [watchexec-2.7.3-powerpc64le-unknown-linux-gnu.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-powerpc64le-unknown-linux-gnu.tar.xz.sha512) | 129 B | `other` |
-| [watchexec-2.7.3-riscv64gc-unknown-linux-gnu.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-riscv64gc-unknown-linux-gnu.deb) | 2.8 MiB | `native/linux/riscv64/glibc` |
-| [watchexec-2.7.3-riscv64gc-unknown-linux-gnu.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-riscv64gc-unknown-linux-gnu.deb.b3) | 65 B | `native/linux/riscv64/glibc` |
-| [watchexec-2.7.3-riscv64gc-unknown-linux-gnu.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-riscv64gc-unknown-linux-gnu.deb.sha256) | 65 B | `native/linux/riscv64/glibc` |
-| [watchexec-2.7.3-riscv64gc-unknown-linux-gnu.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-riscv64gc-unknown-linux-gnu.deb.sha512) | 129 B | `native/linux/riscv64/glibc` |
-| [watchexec-2.7.3-riscv64gc-unknown-linux-gnu.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-riscv64gc-unknown-linux-gnu.rpm) | 3.1 MiB | `native/linux/riscv64/glibc` |
-| [watchexec-2.7.3-riscv64gc-unknown-linux-gnu.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-riscv64gc-unknown-linux-gnu.rpm.b3) | 65 B | `native/linux/riscv64/glibc` |
-| [watchexec-2.7.3-riscv64gc-unknown-linux-gnu.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-riscv64gc-unknown-linux-gnu.rpm.sha256) | 65 B | `native/linux/riscv64/glibc` |
-| [watchexec-2.7.3-riscv64gc-unknown-linux-gnu.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-riscv64gc-unknown-linux-gnu.rpm.sha512) | 129 B | `native/linux/riscv64/glibc` |
-| [watchexec-2.7.3-riscv64gc-unknown-linux-gnu.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-riscv64gc-unknown-linux-gnu.tar.xz) | 2.8 MiB | `native/linux/riscv64/glibc` |
-| [watchexec-2.7.3-riscv64gc-unknown-linux-gnu.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-riscv64gc-unknown-linux-gnu.tar.xz.b3) | 65 B | `native/linux/riscv64/glibc` |
-| [watchexec-2.7.3-riscv64gc-unknown-linux-gnu.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-riscv64gc-unknown-linux-gnu.tar.xz.sha256) | 65 B | `native/linux/riscv64/glibc` |
-| [watchexec-2.7.3-riscv64gc-unknown-linux-gnu.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-riscv64gc-unknown-linux-gnu.tar.xz.sha512) | 129 B | `native/linux/riscv64/glibc` |
-| [watchexec-2.7.3-s390x-unknown-linux-gnu.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-s390x-unknown-linux-gnu.deb) | 2.7 MiB | `other` |
-| [watchexec-2.7.3-s390x-unknown-linux-gnu.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-s390x-unknown-linux-gnu.deb.b3) | 65 B | `other` |
-| [watchexec-2.7.3-s390x-unknown-linux-gnu.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-s390x-unknown-linux-gnu.deb.sha256) | 65 B | `other` |
-| [watchexec-2.7.3-s390x-unknown-linux-gnu.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-s390x-unknown-linux-gnu.deb.sha512) | 129 B | `other` |
-| [watchexec-2.7.3-s390x-unknown-linux-gnu.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-s390x-unknown-linux-gnu.rpm) | 3.0 MiB | `other` |
-| [watchexec-2.7.3-s390x-unknown-linux-gnu.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-s390x-unknown-linux-gnu.rpm.b3) | 65 B | `other` |
-| [watchexec-2.7.3-s390x-unknown-linux-gnu.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-s390x-unknown-linux-gnu.rpm.sha256) | 65 B | `other` |
-| [watchexec-2.7.3-s390x-unknown-linux-gnu.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-s390x-unknown-linux-gnu.rpm.sha512) | 129 B | `other` |
-| [watchexec-2.7.3-s390x-unknown-linux-gnu.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-s390x-unknown-linux-gnu.tar.xz) | 2.7 MiB | `other` |
-| [watchexec-2.7.3-s390x-unknown-linux-gnu.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-s390x-unknown-linux-gnu.tar.xz.b3) | 65 B | `other` |
-| [watchexec-2.7.3-s390x-unknown-linux-gnu.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-s390x-unknown-linux-gnu.tar.xz.sha256) | 65 B | `other` |
-| [watchexec-2.7.3-s390x-unknown-linux-gnu.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-s390x-unknown-linux-gnu.tar.xz.sha512) | 129 B | `other` |
-| [watchexec-2.7.3-x86_64-apple-darwin.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-apple-darwin.tar.xz) | 2.3 MiB | `native/darwin/x64` |
-| [watchexec-2.7.3-x86_64-apple-darwin.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-apple-darwin.tar.xz.b3) | 65 B | `native/darwin/x64` |
-| [watchexec-2.7.3-x86_64-apple-darwin.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-apple-darwin.tar.xz.sha256) | 65 B | `native/darwin/x64` |
-| [watchexec-2.7.3-x86_64-apple-darwin.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-apple-darwin.tar.xz.sha512) | 129 B | `native/darwin/x64` |
-| [watchexec-2.7.3-x86_64-pc-windows-msvc.zip](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-pc-windows-msvc.zip) | 3.4 MiB | `native/win/x64` |
-| [watchexec-2.7.3-x86_64-pc-windows-msvc.zip.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-pc-windows-msvc.zip.b3) | 65 B | `native/win/x64` |
-| [watchexec-2.7.3-x86_64-pc-windows-msvc.zip.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-pc-windows-msvc.zip.sha256) | 65 B | `native/win/x64` |
-| [watchexec-2.7.3-x86_64-pc-windows-msvc.zip.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-pc-windows-msvc.zip.sha512) | 129 B | `native/win/x64` |
-| [watchexec-2.7.3-x86_64-unknown-freebsd.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-freebsd.tar.xz) | 2.8 MiB | `other` |
-| [watchexec-2.7.3-x86_64-unknown-freebsd.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-freebsd.tar.xz.b3) | 65 B | `other` |
-| [watchexec-2.7.3-x86_64-unknown-freebsd.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-freebsd.tar.xz.sha256) | 65 B | `other` |
-| [watchexec-2.7.3-x86_64-unknown-freebsd.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-freebsd.tar.xz.sha512) | 129 B | `other` |
-| [watchexec-2.7.3-x86_64-unknown-linux-gnu.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-gnu.deb) | 2.8 MiB | `native/linux/x64/glibc` |
-| [watchexec-2.7.3-x86_64-unknown-linux-gnu.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-gnu.deb.b3) | 65 B | `native/linux/x64/glibc` |
-| [watchexec-2.7.3-x86_64-unknown-linux-gnu.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-gnu.deb.sha256) | 65 B | `native/linux/x64/glibc` |
-| [watchexec-2.7.3-x86_64-unknown-linux-gnu.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-gnu.deb.sha512) | 129 B | `native/linux/x64/glibc` |
-| [watchexec-2.7.3-x86_64-unknown-linux-gnu.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-gnu.rpm) | 3.0 MiB | `native/linux/x64/glibc` |
-| [watchexec-2.7.3-x86_64-unknown-linux-gnu.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-gnu.rpm.b3) | 65 B | `native/linux/x64/glibc` |
-| [watchexec-2.7.3-x86_64-unknown-linux-gnu.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-gnu.rpm.sha256) | 65 B | `native/linux/x64/glibc` |
-| [watchexec-2.7.3-x86_64-unknown-linux-gnu.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-gnu.rpm.sha512) | 129 B | `native/linux/x64/glibc` |
-| [watchexec-2.7.3-x86_64-unknown-linux-gnu.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-gnu.tar.xz) | 2.8 MiB | `native/linux/x64/glibc` |
-| [watchexec-2.7.3-x86_64-unknown-linux-gnu.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-gnu.tar.xz.b3) | 65 B | `native/linux/x64/glibc` |
-| [watchexec-2.7.3-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-gnu.tar.xz.sha256) | 65 B | `native/linux/x64/glibc` |
-| [watchexec-2.7.3-x86_64-unknown-linux-gnu.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-gnu.tar.xz.sha512) | 129 B | `native/linux/x64/glibc` |
-| [watchexec-2.7.3-x86_64-unknown-linux-musl.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-musl.deb) | 2.9 MiB | `native/linux/x64/musl` |
-| [watchexec-2.7.3-x86_64-unknown-linux-musl.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-musl.deb.b3) | 65 B | `native/linux/x64/musl` |
-| [watchexec-2.7.3-x86_64-unknown-linux-musl.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-musl.deb.sha256) | 65 B | `native/linux/x64/musl` |
-| [watchexec-2.7.3-x86_64-unknown-linux-musl.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-musl.deb.sha512) | 129 B | `native/linux/x64/musl` |
-| [watchexec-2.7.3-x86_64-unknown-linux-musl.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-musl.rpm) | 3.1 MiB | `native/linux/x64/musl` |
-| [watchexec-2.7.3-x86_64-unknown-linux-musl.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-musl.rpm.b3) | 65 B | `native/linux/x64/musl` |
-| [watchexec-2.7.3-x86_64-unknown-linux-musl.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-musl.rpm.sha256) | 65 B | `native/linux/x64/musl` |
-| [watchexec-2.7.3-x86_64-unknown-linux-musl.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-musl.rpm.sha512) | 129 B | `native/linux/x64/musl` |
-| [watchexec-2.7.3-x86_64-unknown-linux-musl.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-musl.tar.xz) | 2.9 MiB | `native/linux/x64/musl` |
-| [watchexec-2.7.3-x86_64-unknown-linux-musl.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-musl.tar.xz.b3) | 65 B | `native/linux/x64/musl` |
-| [watchexec-2.7.3-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-musl.tar.xz.sha256) | 65 B | `native/linux/x64/musl` |
-| [watchexec-2.7.3-x86_64-unknown-linux-musl.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.3/watchexec-2.7.3-x86_64-unknown-linux-musl.tar.xz.sha512) | 129 B | `native/linux/x64/musl` |
+| [B3SUMS](https://github.com/watchexec/watchexec/releases/download/v2.7.4/B3SUMS) | 3.5 KiB | `other` |
+| [dist-manifest.json](https://github.com/watchexec/watchexec/releases/download/v2.7.4/dist-manifest.json) | 8.6 KiB | `other` |
+| [SHA256SUMS](https://github.com/watchexec/watchexec/releases/download/v2.7.4/SHA256SUMS) | 3.5 KiB | `other` |
+| [SHA512SUMS](https://github.com/watchexec/watchexec/releases/download/v2.7.4/SHA512SUMS) | 5.5 KiB | `other` |
+| [watchexec-2.7.4-aarch64-apple-darwin.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-apple-darwin.tar.xz) | 2.0 MiB | `native/darwin/arm64` |
+| [watchexec-2.7.4-aarch64-apple-darwin.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-apple-darwin.tar.xz.b3) | 65 B | `native/darwin/arm64` |
+| [watchexec-2.7.4-aarch64-apple-darwin.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-apple-darwin.tar.xz.sha256) | 65 B | `native/darwin/arm64` |
+| [watchexec-2.7.4-aarch64-apple-darwin.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-apple-darwin.tar.xz.sha512) | 129 B | `native/darwin/arm64` |
+| [watchexec-2.7.4-aarch64-pc-windows-msvc.zip](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-pc-windows-msvc.zip) | 3.1 MiB | `native/win/arm64` |
+| [watchexec-2.7.4-aarch64-pc-windows-msvc.zip.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-pc-windows-msvc.zip.b3) | 65 B | `native/win/arm64` |
+| [watchexec-2.7.4-aarch64-pc-windows-msvc.zip.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-pc-windows-msvc.zip.sha256) | 65 B | `native/win/arm64` |
+| [watchexec-2.7.4-aarch64-pc-windows-msvc.zip.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-pc-windows-msvc.zip.sha512) | 129 B | `native/win/arm64` |
+| [watchexec-2.7.4-aarch64-unknown-linux-gnu.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-gnu.deb) | 2.4 MiB | `native/linux/arm64/glibc` |
+| [watchexec-2.7.4-aarch64-unknown-linux-gnu.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-gnu.deb.b3) | 65 B | `native/linux/arm64/glibc` |
+| [watchexec-2.7.4-aarch64-unknown-linux-gnu.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-gnu.deb.sha256) | 65 B | `native/linux/arm64/glibc` |
+| [watchexec-2.7.4-aarch64-unknown-linux-gnu.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-gnu.deb.sha512) | 129 B | `native/linux/arm64/glibc` |
+| [watchexec-2.7.4-aarch64-unknown-linux-gnu.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-gnu.rpm) | 2.8 MiB | `native/linux/arm64/glibc` |
+| [watchexec-2.7.4-aarch64-unknown-linux-gnu.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-gnu.rpm.b3) | 65 B | `native/linux/arm64/glibc` |
+| [watchexec-2.7.4-aarch64-unknown-linux-gnu.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-gnu.rpm.sha256) | 65 B | `native/linux/arm64/glibc` |
+| [watchexec-2.7.4-aarch64-unknown-linux-gnu.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-gnu.rpm.sha512) | 129 B | `native/linux/arm64/glibc` |
+| [watchexec-2.7.4-aarch64-unknown-linux-gnu.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-gnu.tar.xz) | 2.4 MiB | `native/linux/arm64/glibc` |
+| [watchexec-2.7.4-aarch64-unknown-linux-gnu.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-gnu.tar.xz.b3) | 65 B | `native/linux/arm64/glibc` |
+| [watchexec-2.7.4-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-gnu.tar.xz.sha256) | 65 B | `native/linux/arm64/glibc` |
+| [watchexec-2.7.4-aarch64-unknown-linux-gnu.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-gnu.tar.xz.sha512) | 129 B | `native/linux/arm64/glibc` |
+| [watchexec-2.7.4-aarch64-unknown-linux-musl.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-musl.deb) | 2.5 MiB | `native/linux/arm64/musl` |
+| [watchexec-2.7.4-aarch64-unknown-linux-musl.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-musl.deb.b3) | 65 B | `native/linux/arm64/musl` |
+| [watchexec-2.7.4-aarch64-unknown-linux-musl.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-musl.deb.sha256) | 65 B | `native/linux/arm64/musl` |
+| [watchexec-2.7.4-aarch64-unknown-linux-musl.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-musl.deb.sha512) | 129 B | `native/linux/arm64/musl` |
+| [watchexec-2.7.4-aarch64-unknown-linux-musl.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-musl.rpm) | 2.9 MiB | `native/linux/arm64/musl` |
+| [watchexec-2.7.4-aarch64-unknown-linux-musl.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-musl.rpm.b3) | 65 B | `native/linux/arm64/musl` |
+| [watchexec-2.7.4-aarch64-unknown-linux-musl.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-musl.rpm.sha256) | 65 B | `native/linux/arm64/musl` |
+| [watchexec-2.7.4-aarch64-unknown-linux-musl.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-musl.rpm.sha512) | 129 B | `native/linux/arm64/musl` |
+| [watchexec-2.7.4-aarch64-unknown-linux-musl.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-musl.tar.xz) | 2.5 MiB | `native/linux/arm64/musl` |
+| [watchexec-2.7.4-aarch64-unknown-linux-musl.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-musl.tar.xz.b3) | 65 B | `native/linux/arm64/musl` |
+| [watchexec-2.7.4-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-musl.tar.xz.sha256) | 65 B | `native/linux/arm64/musl` |
+| [watchexec-2.7.4-aarch64-unknown-linux-musl.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-aarch64-unknown-linux-musl.tar.xz.sha512) | 129 B | `native/linux/arm64/musl` |
+| [watchexec-2.7.4-armv7-unknown-linux-gnueabihf.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-armv7-unknown-linux-gnueabihf.deb) | 2.5 MiB | `native/linux/arm/glibc` |
+| [watchexec-2.7.4-armv7-unknown-linux-gnueabihf.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-armv7-unknown-linux-gnueabihf.deb.b3) | 65 B | `native/linux/arm/glibc` |
+| [watchexec-2.7.4-armv7-unknown-linux-gnueabihf.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-armv7-unknown-linux-gnueabihf.deb.sha256) | 65 B | `native/linux/arm/glibc` |
+| [watchexec-2.7.4-armv7-unknown-linux-gnueabihf.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-armv7-unknown-linux-gnueabihf.deb.sha512) | 129 B | `native/linux/arm/glibc` |
+| [watchexec-2.7.4-armv7-unknown-linux-gnueabihf.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-armv7-unknown-linux-gnueabihf.rpm) | 2.9 MiB | `native/linux/arm/glibc` |
+| [watchexec-2.7.4-armv7-unknown-linux-gnueabihf.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-armv7-unknown-linux-gnueabihf.rpm.b3) | 65 B | `native/linux/arm/glibc` |
+| [watchexec-2.7.4-armv7-unknown-linux-gnueabihf.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-armv7-unknown-linux-gnueabihf.rpm.sha256) | 65 B | `native/linux/arm/glibc` |
+| [watchexec-2.7.4-armv7-unknown-linux-gnueabihf.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-armv7-unknown-linux-gnueabihf.rpm.sha512) | 129 B | `native/linux/arm/glibc` |
+| [watchexec-2.7.4-armv7-unknown-linux-gnueabihf.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-armv7-unknown-linux-gnueabihf.tar.xz) | 2.5 MiB | `native/linux/arm/glibc` |
+| [watchexec-2.7.4-armv7-unknown-linux-gnueabihf.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-armv7-unknown-linux-gnueabihf.tar.xz.b3) | 65 B | `native/linux/arm/glibc` |
+| [watchexec-2.7.4-armv7-unknown-linux-gnueabihf.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-armv7-unknown-linux-gnueabihf.tar.xz.sha256) | 65 B | `native/linux/arm/glibc` |
+| [watchexec-2.7.4-armv7-unknown-linux-gnueabihf.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-armv7-unknown-linux-gnueabihf.tar.xz.sha512) | 129 B | `native/linux/arm/glibc` |
+| [watchexec-2.7.4-i686-unknown-linux-musl.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-i686-unknown-linux-musl.deb) | 3.0 MiB | `native/linux/x86/musl` |
+| [watchexec-2.7.4-i686-unknown-linux-musl.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-i686-unknown-linux-musl.deb.b3) | 65 B | `native/linux/x86/musl` |
+| [watchexec-2.7.4-i686-unknown-linux-musl.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-i686-unknown-linux-musl.deb.sha256) | 65 B | `native/linux/x86/musl` |
+| [watchexec-2.7.4-i686-unknown-linux-musl.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-i686-unknown-linux-musl.deb.sha512) | 129 B | `native/linux/x86/musl` |
+| [watchexec-2.7.4-i686-unknown-linux-musl.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-i686-unknown-linux-musl.rpm) | 3.2 MiB | `native/linux/x86/musl` |
+| [watchexec-2.7.4-i686-unknown-linux-musl.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-i686-unknown-linux-musl.rpm.b3) | 65 B | `native/linux/x86/musl` |
+| [watchexec-2.7.4-i686-unknown-linux-musl.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-i686-unknown-linux-musl.rpm.sha256) | 65 B | `native/linux/x86/musl` |
+| [watchexec-2.7.4-i686-unknown-linux-musl.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-i686-unknown-linux-musl.rpm.sha512) | 129 B | `native/linux/x86/musl` |
+| [watchexec-2.7.4-i686-unknown-linux-musl.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-i686-unknown-linux-musl.tar.xz) | 3.0 MiB | `native/linux/x86/musl` |
+| [watchexec-2.7.4-i686-unknown-linux-musl.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-i686-unknown-linux-musl.tar.xz.b3) | 65 B | `native/linux/x86/musl` |
+| [watchexec-2.7.4-i686-unknown-linux-musl.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-i686-unknown-linux-musl.tar.xz.sha256) | 65 B | `native/linux/x86/musl` |
+| [watchexec-2.7.4-i686-unknown-linux-musl.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-i686-unknown-linux-musl.tar.xz.sha512) | 129 B | `native/linux/x86/musl` |
+| [watchexec-2.7.4-powerpc64le-unknown-linux-gnu.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-powerpc64le-unknown-linux-gnu.deb) | 2.7 MiB | `other` |
+| [watchexec-2.7.4-powerpc64le-unknown-linux-gnu.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-powerpc64le-unknown-linux-gnu.deb.b3) | 65 B | `other` |
+| [watchexec-2.7.4-powerpc64le-unknown-linux-gnu.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-powerpc64le-unknown-linux-gnu.deb.sha256) | 65 B | `other` |
+| [watchexec-2.7.4-powerpc64le-unknown-linux-gnu.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-powerpc64le-unknown-linux-gnu.deb.sha512) | 129 B | `other` |
+| [watchexec-2.7.4-powerpc64le-unknown-linux-gnu.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-powerpc64le-unknown-linux-gnu.rpm) | 3.1 MiB | `other` |
+| [watchexec-2.7.4-powerpc64le-unknown-linux-gnu.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-powerpc64le-unknown-linux-gnu.rpm.b3) | 65 B | `other` |
+| [watchexec-2.7.4-powerpc64le-unknown-linux-gnu.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-powerpc64le-unknown-linux-gnu.rpm.sha256) | 65 B | `other` |
+| [watchexec-2.7.4-powerpc64le-unknown-linux-gnu.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-powerpc64le-unknown-linux-gnu.rpm.sha512) | 129 B | `other` |
+| [watchexec-2.7.4-powerpc64le-unknown-linux-gnu.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-powerpc64le-unknown-linux-gnu.tar.xz) | 2.6 MiB | `other` |
+| [watchexec-2.7.4-powerpc64le-unknown-linux-gnu.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-powerpc64le-unknown-linux-gnu.tar.xz.b3) | 65 B | `other` |
+| [watchexec-2.7.4-powerpc64le-unknown-linux-gnu.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-powerpc64le-unknown-linux-gnu.tar.xz.sha256) | 65 B | `other` |
+| [watchexec-2.7.4-powerpc64le-unknown-linux-gnu.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-powerpc64le-unknown-linux-gnu.tar.xz.sha512) | 129 B | `other` |
+| [watchexec-2.7.4-riscv64gc-unknown-linux-gnu.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-riscv64gc-unknown-linux-gnu.deb) | 2.7 MiB | `native/linux/riscv64/glibc` |
+| [watchexec-2.7.4-riscv64gc-unknown-linux-gnu.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-riscv64gc-unknown-linux-gnu.deb.b3) | 65 B | `native/linux/riscv64/glibc` |
+| [watchexec-2.7.4-riscv64gc-unknown-linux-gnu.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-riscv64gc-unknown-linux-gnu.deb.sha256) | 65 B | `native/linux/riscv64/glibc` |
+| [watchexec-2.7.4-riscv64gc-unknown-linux-gnu.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-riscv64gc-unknown-linux-gnu.deb.sha512) | 129 B | `native/linux/riscv64/glibc` |
+| [watchexec-2.7.4-riscv64gc-unknown-linux-gnu.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-riscv64gc-unknown-linux-gnu.rpm) | 3.0 MiB | `native/linux/riscv64/glibc` |
+| [watchexec-2.7.4-riscv64gc-unknown-linux-gnu.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-riscv64gc-unknown-linux-gnu.rpm.b3) | 65 B | `native/linux/riscv64/glibc` |
+| [watchexec-2.7.4-riscv64gc-unknown-linux-gnu.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-riscv64gc-unknown-linux-gnu.rpm.sha256) | 65 B | `native/linux/riscv64/glibc` |
+| [watchexec-2.7.4-riscv64gc-unknown-linux-gnu.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-riscv64gc-unknown-linux-gnu.rpm.sha512) | 129 B | `native/linux/riscv64/glibc` |
+| [watchexec-2.7.4-riscv64gc-unknown-linux-gnu.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-riscv64gc-unknown-linux-gnu.tar.xz) | 2.7 MiB | `native/linux/riscv64/glibc` |
+| [watchexec-2.7.4-riscv64gc-unknown-linux-gnu.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-riscv64gc-unknown-linux-gnu.tar.xz.b3) | 65 B | `native/linux/riscv64/glibc` |
+| [watchexec-2.7.4-riscv64gc-unknown-linux-gnu.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-riscv64gc-unknown-linux-gnu.tar.xz.sha256) | 65 B | `native/linux/riscv64/glibc` |
+| [watchexec-2.7.4-riscv64gc-unknown-linux-gnu.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-riscv64gc-unknown-linux-gnu.tar.xz.sha512) | 129 B | `native/linux/riscv64/glibc` |
+| [watchexec-2.7.4-s390x-unknown-linux-gnu.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-s390x-unknown-linux-gnu.deb) | 2.7 MiB | `other` |
+| [watchexec-2.7.4-s390x-unknown-linux-gnu.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-s390x-unknown-linux-gnu.deb.b3) | 65 B | `other` |
+| [watchexec-2.7.4-s390x-unknown-linux-gnu.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-s390x-unknown-linux-gnu.deb.sha256) | 65 B | `other` |
+| [watchexec-2.7.4-s390x-unknown-linux-gnu.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-s390x-unknown-linux-gnu.deb.sha512) | 129 B | `other` |
+| [watchexec-2.7.4-s390x-unknown-linux-gnu.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-s390x-unknown-linux-gnu.rpm) | 3.0 MiB | `other` |
+| [watchexec-2.7.4-s390x-unknown-linux-gnu.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-s390x-unknown-linux-gnu.rpm.b3) | 65 B | `other` |
+| [watchexec-2.7.4-s390x-unknown-linux-gnu.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-s390x-unknown-linux-gnu.rpm.sha256) | 65 B | `other` |
+| [watchexec-2.7.4-s390x-unknown-linux-gnu.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-s390x-unknown-linux-gnu.rpm.sha512) | 129 B | `other` |
+| [watchexec-2.7.4-s390x-unknown-linux-gnu.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-s390x-unknown-linux-gnu.tar.xz) | 2.7 MiB | `other` |
+| [watchexec-2.7.4-s390x-unknown-linux-gnu.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-s390x-unknown-linux-gnu.tar.xz.b3) | 65 B | `other` |
+| [watchexec-2.7.4-s390x-unknown-linux-gnu.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-s390x-unknown-linux-gnu.tar.xz.sha256) | 65 B | `other` |
+| [watchexec-2.7.4-s390x-unknown-linux-gnu.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-s390x-unknown-linux-gnu.tar.xz.sha512) | 129 B | `other` |
+| [watchexec-2.7.4-x86_64-apple-darwin.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-apple-darwin.tar.xz) | 2.3 MiB | `native/darwin/x64` |
+| [watchexec-2.7.4-x86_64-apple-darwin.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-apple-darwin.tar.xz.b3) | 65 B | `native/darwin/x64` |
+| [watchexec-2.7.4-x86_64-apple-darwin.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-apple-darwin.tar.xz.sha256) | 65 B | `native/darwin/x64` |
+| [watchexec-2.7.4-x86_64-apple-darwin.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-apple-darwin.tar.xz.sha512) | 129 B | `native/darwin/x64` |
+| [watchexec-2.7.4-x86_64-pc-windows-msvc.zip](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-pc-windows-msvc.zip) | 3.4 MiB | `native/win/x64` |
+| [watchexec-2.7.4-x86_64-pc-windows-msvc.zip.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-pc-windows-msvc.zip.b3) | 65 B | `native/win/x64` |
+| [watchexec-2.7.4-x86_64-pc-windows-msvc.zip.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-pc-windows-msvc.zip.sha256) | 65 B | `native/win/x64` |
+| [watchexec-2.7.4-x86_64-pc-windows-msvc.zip.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-pc-windows-msvc.zip.sha512) | 129 B | `native/win/x64` |
+| [watchexec-2.7.4-x86_64-unknown-freebsd.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-freebsd.tar.xz) | 2.8 MiB | `other` |
+| [watchexec-2.7.4-x86_64-unknown-freebsd.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-freebsd.tar.xz.b3) | 65 B | `other` |
+| [watchexec-2.7.4-x86_64-unknown-freebsd.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-freebsd.tar.xz.sha256) | 65 B | `other` |
+| [watchexec-2.7.4-x86_64-unknown-freebsd.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-freebsd.tar.xz.sha512) | 129 B | `other` |
+| [watchexec-2.7.4-x86_64-unknown-linux-gnu.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-gnu.deb) | 2.8 MiB | `native/linux/x64/glibc` |
+| [watchexec-2.7.4-x86_64-unknown-linux-gnu.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-gnu.deb.b3) | 65 B | `native/linux/x64/glibc` |
+| [watchexec-2.7.4-x86_64-unknown-linux-gnu.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-gnu.deb.sha256) | 65 B | `native/linux/x64/glibc` |
+| [watchexec-2.7.4-x86_64-unknown-linux-gnu.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-gnu.deb.sha512) | 129 B | `native/linux/x64/glibc` |
+| [watchexec-2.7.4-x86_64-unknown-linux-gnu.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-gnu.rpm) | 3.0 MiB | `native/linux/x64/glibc` |
+| [watchexec-2.7.4-x86_64-unknown-linux-gnu.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-gnu.rpm.b3) | 65 B | `native/linux/x64/glibc` |
+| [watchexec-2.7.4-x86_64-unknown-linux-gnu.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-gnu.rpm.sha256) | 65 B | `native/linux/x64/glibc` |
+| [watchexec-2.7.4-x86_64-unknown-linux-gnu.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-gnu.rpm.sha512) | 129 B | `native/linux/x64/glibc` |
+| [watchexec-2.7.4-x86_64-unknown-linux-gnu.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-gnu.tar.xz) | 2.8 MiB | `native/linux/x64/glibc` |
+| [watchexec-2.7.4-x86_64-unknown-linux-gnu.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-gnu.tar.xz.b3) | 65 B | `native/linux/x64/glibc` |
+| [watchexec-2.7.4-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-gnu.tar.xz.sha256) | 65 B | `native/linux/x64/glibc` |
+| [watchexec-2.7.4-x86_64-unknown-linux-gnu.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-gnu.tar.xz.sha512) | 129 B | `native/linux/x64/glibc` |
+| [watchexec-2.7.4-x86_64-unknown-linux-musl.deb](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-musl.deb) | 2.9 MiB | `native/linux/x64/musl` |
+| [watchexec-2.7.4-x86_64-unknown-linux-musl.deb.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-musl.deb.b3) | 65 B | `native/linux/x64/musl` |
+| [watchexec-2.7.4-x86_64-unknown-linux-musl.deb.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-musl.deb.sha256) | 65 B | `native/linux/x64/musl` |
+| [watchexec-2.7.4-x86_64-unknown-linux-musl.deb.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-musl.deb.sha512) | 129 B | `native/linux/x64/musl` |
+| [watchexec-2.7.4-x86_64-unknown-linux-musl.rpm](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-musl.rpm) | 3.1 MiB | `native/linux/x64/musl` |
+| [watchexec-2.7.4-x86_64-unknown-linux-musl.rpm.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-musl.rpm.b3) | 65 B | `native/linux/x64/musl` |
+| [watchexec-2.7.4-x86_64-unknown-linux-musl.rpm.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-musl.rpm.sha256) | 65 B | `native/linux/x64/musl` |
+| [watchexec-2.7.4-x86_64-unknown-linux-musl.rpm.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-musl.rpm.sha512) | 129 B | `native/linux/x64/musl` |
+| [watchexec-2.7.4-x86_64-unknown-linux-musl.tar.xz](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-musl.tar.xz) | 2.9 MiB | `native/linux/x64/musl` |
+| [watchexec-2.7.4-x86_64-unknown-linux-musl.tar.xz.b3](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-musl.tar.xz.b3) | 65 B | `native/linux/x64/musl` |
+| [watchexec-2.7.4-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-musl.tar.xz.sha256) | 65 B | `native/linux/x64/musl` |
+| [watchexec-2.7.4-x86_64-unknown-linux-musl.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.7.4/watchexec-2.7.4-x86_64-unknown-linux-musl.tar.xz.sha512) | 129 B | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -211,4 +211,4 @@ Install metadata for watchexec lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:35:56Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:21:50Z._
