@@ -14,12 +14,12 @@ x install watchexec
 
 ## Code insight
 
-Total: **23,425** lines of code across **142** files in the top 5 languages.
+Total: **23,872** lines of code across **143** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 21,884 | 448 | 3,018 | 114 |
-| Toml | 806 | 18 | 164 | 18 |
+| Rust | 22,327 | 466 | 3,069 | 115 |
+| Toml | 810 | 18 | 165 | 18 |
 | Svg | 307 | 0 | 0 | 1 |
 | Json | 248 | 0 | 0 | 8 |
 | Python | 109 | 1 | 33 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.7.4` (2026-10-02)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-05
 - **Assets in release**: 132
 
 ## Popularity
 
-- **Stars**: 7,213 · **Forks**: 205 · **Open issues**: 370 · **Contributors**: 87
+- **Stars**: 7,214 · **Forks**: 206 · **Open issues**: 370 · **Contributors**: 88
 
 ## Totals (cumulative)
 
-- **Releases**: 119 · **Merged PRs**: 389 · **Open PRs**: 2 · **Closed issues**: 340 · **Open issues**: 30 · **Commits**: 1721
+- **Releases**: 119 · **Merged PRs**: 392 · **Open PRs**: 2 · **Closed issues**: 341 · **Open issues**: 29 · **Commits**: 1736
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 3 | 17 | 2 | 2 | 1 | 29 |
-| last60d | 2026-08-06 | 7 | 48 | 2 | 3 | 4 | 103 |
-| 90d | 2026-07-07 | 7 | 57 | 2 | 3 | 4 | 114 |
-| last180d | 2026-04-08 | 7 | 61 | 2 | 4 | 4 | 120 |
-| 360d | 2025-10-10 | 14 | 84 | 2 | 11 | 7 | 171 |
-| last720d | 2024-10-15 | 18 | 99 | 2 | 42 | 10 | 339 |
+| 30d | 2026-09-06 | 3 | 19 | 2 | 3 | 0 | 42 |
+| last60d | 2026-08-07 | 7 | 51 | 2 | 4 | 3 | 116 |
+| 90d | 2026-07-08 | 7 | 60 | 2 | 4 | 3 | 127 |
+| last180d | 2026-04-09 | 7 | 64 | 2 | 5 | 3 | 133 |
+| 360d | 2025-10-11 | 14 | 87 | 2 | 12 | 6 | 184 |
+| last720d | 2024-10-16 | 18 | 102 | 2 | 43 | 9 | 354 |
 
 ## Release assets
 
@@ -211,4 +211,4 @@ Install metadata for watchexec lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:29:09Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:13:53Z._
