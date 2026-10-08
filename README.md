@@ -26,11 +26,11 @@ Total: **23,872** lines of code across **143** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.3 / 10**
+Overall score: **4.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 5/11 approved changesets -- score normalized to 4
+- **Code-Review** (2/10) — Found 1/5 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,220 · **Forks**: 206 · **Open issues**: 370 · **Contributors**: 88
+- **Stars**: 7,223 · **Forks**: 205 · **Open issues**: 370 · **Contributors**: 88
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 3 | 20 | 0 | 3 | 0 | 46 |
-| last60d | 2026-08-08 | 8 | 53 | 0 | 4 | 3 | 120 |
-| 90d | 2026-07-09 | 8 | 62 | 0 | 4 | 3 | 131 |
-| last180d | 2026-04-10 | 8 | 66 | 0 | 5 | 3 | 137 |
-| 360d | 2025-10-12 | 15 | 89 | 0 | 12 | 6 | 188 |
-| last720d | 2024-10-17 | 19 | 104 | 0 | 44 | 8 | 360 |
+| 30d | 2026-09-08 | 3 | 20 | 0 | 2 | 0 | 46 |
+| last60d | 2026-08-09 | 8 | 53 | 0 | 4 | 3 | 120 |
+| 90d | 2026-07-10 | 8 | 62 | 0 | 4 | 3 | 131 |
+| last180d | 2026-04-11 | 8 | 66 | 0 | 5 | 3 | 137 |
+| 360d | 2025-10-13 | 15 | 88 | 0 | 12 | 6 | 188 |
+| last720d | 2024-10-18 | 19 | 104 | 0 | 44 | 8 | 360 |
 
 ## Release assets
 
@@ -211,4 +211,4 @@ Install metadata for watchexec lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:49:23Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:01:02Z._
