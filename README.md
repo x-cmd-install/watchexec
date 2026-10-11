@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 3 | 21 | 1 | 1 | 0 | 48 |
-| last60d | 2026-08-11 | 8 | 53 | 1 | 4 | 3 | 122 |
-| 90d | 2026-07-12 | 8 | 63 | 1 | 4 | 3 | 133 |
-| last180d | 2026-04-13 | 8 | 66 | 1 | 5 | 3 | 139 |
-| 360d | 2025-10-15 | 15 | 89 | 1 | 12 | 6 | 190 |
-| last720d | 2024-10-20 | 19 | 105 | 1 | 44 | 8 | 364 |
+| 30d | 2026-09-11 | 3 | 21 | 1 | 1 | 0 | 48 |
+| last60d | 2026-08-12 | 8 | 53 | 1 | 4 | 3 | 122 |
+| 90d | 2026-07-13 | 8 | 63 | 1 | 4 | 3 | 133 |
+| last180d | 2026-04-14 | 8 | 65 | 1 | 5 | 3 | 139 |
+| 360d | 2025-10-16 | 15 | 89 | 1 | 12 | 6 | 190 |
+| last720d | 2024-10-21 | 19 | 105 | 1 | 44 | 8 | 364 |
 
 ## Release assets
 
@@ -211,4 +211,4 @@ Install metadata for watchexec lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T05:43:21Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T05:39:34Z._
