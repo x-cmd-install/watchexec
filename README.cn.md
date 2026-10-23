@@ -26,13 +26,13 @@ x install watchexec
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.1 / 10**
+总评分: **4.4 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 1/5 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (1/10) — dependency not pinned by hash detected -- score normalized to 1
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install watchexec
 
 ## 流行度
 
-- **Star**: 7,243 · **Fork**: 208 · **开放 issue**: 371 · **贡献者**: 89
+- **Star**: 7,244 · **Fork**: 208 · **开放 issue**: 371 · **贡献者**: 89
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install watchexec
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 18 | 6 | 1 | 1 | 41 |
-| last60d | 2026-08-23 | 6 | 32 | 6 | 3 | 2 | 60 |
-| 90d | 2026-07-24 | 8 | 63 | 6 | 4 | 4 | 132 |
-| last180d | 2026-04-25 | 8 | 66 | 6 | 5 | 4 | 138 |
-| 360d | 2025-10-27 | 15 | 91 | 6 | 12 | 7 | 193 |
-| last720d | 2024-11-01 | 19 | 106 | 6 | 44 | 8 | 369 |
+| 30d | 2026-09-23 | 2 | 17 | 6 | 1 | 1 | 41 |
+| last60d | 2026-08-24 | 6 | 29 | 6 | 3 | 2 | 60 |
+| 90d | 2026-07-25 | 8 | 62 | 6 | 4 | 4 | 132 |
+| last180d | 2026-04-26 | 8 | 66 | 6 | 5 | 4 | 138 |
+| 360d | 2025-10-28 | 15 | 91 | 6 | 12 | 7 | 193 |
+| last720d | 2024-11-02 | 19 | 106 | 6 | 42 | 8 | 369 |
 
 ## Release 资产
 
@@ -202,6 +202,19 @@ x install watchexec
 | [watchexec-2.8.0-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.8.0/watchexec-2.8.0-x86_64-unknown-linux-musl.tar.xz.sha256) | 65 B | `native/linux/x64/musl` |
 | [watchexec-2.8.0-x86_64-unknown-linux-musl.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.8.0/watchexec-2.8.0-x86_64-unknown-linux-musl.tar.xz.sha512) | 129 B | `native/linux/x64/musl` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/watchexec) 上共有 **86** 个发行版报告此项目。**19** 个 ✅ 已是最新上游版本，**51** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `2.8.0` | ✅ latest |
+| Homebrew | `2.8.0` | ✅ latest |
+| Nix unstable | `2.5.1` | ⚠️ outdated |
+| Void | `2.7.2` | ⚠️ outdated |
+| Alpine edge | `2.8.0` | ✅ latest |
+| openSUSE Tumbleweed | `2.5.1` | ⚠️ outdated |
+
 ## 改进这些数据
 
 watchexec 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `watchexec` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -211,4 +224,4 @@ watchexec 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:36:56Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:41:12Z._

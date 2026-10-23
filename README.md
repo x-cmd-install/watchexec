@@ -26,13 +26,13 @@ Total: **23,971** lines of code across **143** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.1 / 10**
+Overall score: **4.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 1/5 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (1/10) — dependency not pinned by hash detected -- score normalized to 1
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,243 · **Forks**: 208 · **Open issues**: 371 · **Contributors**: 89
+- **Stars**: 7,244 · **Forks**: 208 · **Open issues**: 371 · **Contributors**: 89
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 18 | 6 | 1 | 1 | 41 |
-| last60d | 2026-08-23 | 6 | 32 | 6 | 3 | 2 | 60 |
-| 90d | 2026-07-24 | 8 | 63 | 6 | 4 | 4 | 132 |
-| last180d | 2026-04-25 | 8 | 66 | 6 | 5 | 4 | 138 |
-| 360d | 2025-10-27 | 15 | 91 | 6 | 12 | 7 | 193 |
-| last720d | 2024-11-01 | 19 | 106 | 6 | 44 | 8 | 369 |
+| 30d | 2026-09-23 | 2 | 17 | 6 | 1 | 1 | 41 |
+| last60d | 2026-08-24 | 6 | 29 | 6 | 3 | 2 | 60 |
+| 90d | 2026-07-25 | 8 | 62 | 6 | 4 | 4 | 132 |
+| last180d | 2026-04-26 | 8 | 66 | 6 | 5 | 4 | 138 |
+| 360d | 2025-10-28 | 15 | 91 | 6 | 12 | 7 | 193 |
+| last720d | 2024-11-02 | 19 | 106 | 6 | 42 | 8 | 369 |
 
 ## Release assets
 
@@ -202,6 +202,19 @@ Lowest-scoring checks:
 | [watchexec-2.8.0-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/watchexec/watchexec/releases/download/v2.8.0/watchexec-2.8.0-x86_64-unknown-linux-musl.tar.xz.sha256) | 65 B | `native/linux/x64/musl` |
 | [watchexec-2.8.0-x86_64-unknown-linux-musl.tar.xz.sha512](https://github.com/watchexec/watchexec/releases/download/v2.8.0/watchexec-2.8.0-x86_64-unknown-linux-musl.tar.xz.sha512) | 129 B | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **86** distros on [repology.org](https://repology.org/project/watchexec). **19** are ✅ on the latest upstream release, **51** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `2.8.0` | ✅ latest |
+| Homebrew | `2.8.0` | ✅ latest |
+| Nix unstable | `2.5.1` | ⚠️ outdated |
+| Void | `2.7.2` | ⚠️ outdated |
+| Alpine edge | `2.8.0` | ✅ latest |
+| openSUSE Tumbleweed | `2.5.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for watchexec lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `watchexec` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -211,4 +224,4 @@ Install metadata for watchexec lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:36:56Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:41:11Z._
