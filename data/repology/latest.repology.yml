@@ -115,6 +115,17 @@
     - cielesti@protonmail.com
   licenses:
     - Apache-2.0
+- repo: arch
+  subrepo: extra
+  srcname: watchexec
+  binname: watchexec
+  visiblename: watchexec
+  version: 2.8.0
+  origversion: 2.8.0-1
+  status: newest
+  summary: Executes commands in response to file modifications
+  licenses:
+    - Apache-2.0
 - repo: alpine_3_20
   subrepo: community
   srcname: watchexec
@@ -219,21 +230,6 @@
     - cielesti@protonmail.com
   licenses:
     - Apache-2.0
-- repo: altsisyphus
-  srcname: watchexec
-  binnames:
-    - watchexec
-  visiblename: watchexec
-  version: 2.7.3
-  origversion: 2.7.3-alt1
-  status: outdated
-  summary: Executes commands in response to file modifications
-  maintainers:
-    - obirvalger@altlinux.org
-  licenses:
-    - Apache-2.0
-  categories:
-    - Other
 - repo: alpine_3_22
   subrepo: community
   srcname: watchexec
@@ -245,6 +241,18 @@
   summary: Executes commands in response to file modifications (documentation)
   maintainers:
     - cielesti@protonmail.com
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: watchexec-git
+  binname: watchexec-git
+  visiblename: watchexec-git
+  version: 2.3.3.r5.g8aa4cb2a
+  origversion: 2.3.3.r5.g8aa4cb2a-1
+  status: rolling
+  summary: Executes commands in response to file modifications
+  maintainers:
+    - chocobo1@aur
   licenses:
     - Apache-2.0
 - repo: alpine_3_22
@@ -351,30 +359,27 @@
     - huajingyun@loongson.cn
   licenses:
     - Apache-2.0
-- repo: arch
-  subrepo: extra
+- repo: alpine_3_24
+  subrepo: community
+  srcname: watchexec
+  binname: watchexec-bash-completion
+  visiblename: watchexec-bash-completion
+  version: 2.3.2
+  origversion: 2.3.2-r1
+  status: outdated
+  summary: Bash completions for watchexec
+  maintainers:
+    - huajingyun@loongson.cn
+  licenses:
+    - Apache-2.0
+- repo: baulk
   srcname: watchexec
   binname: watchexec
   visiblename: watchexec
   version: 2.8.0
-  origversion: 2.8.0-1
+  origversion: null
   status: newest
-  summary: Executes commands in response to file modifications
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_24
-  subrepo: community
-  srcname: watchexec
-  binname: watchexec-bash-completion
-  visiblename: watchexec-bash-completion
-  version: 2.3.2
-  origversion: 2.3.2-r1
-  status: outdated
-  summary: Bash completions for watchexec
-  maintainers:
-    - huajingyun@loongson.cn
-  licenses:
-    - Apache-2.0
+  summary: Execute commands in response to file modifications.
 - repo: alpine_3_24
   subrepo: community
   srcname: watchexec
@@ -494,26 +499,43 @@
     - Apache-2.0
   categories:
     - Other
-- repo: aur
-  srcname: watchexec-git
-  binname: watchexec-git
-  visiblename: watchexec-git
-  version: 2.3.3.r5.g8aa4cb2a
-  origversion: 2.3.3.r5.g8aa4cb2a-1
-  status: rolling
-  summary: Executes commands in response to file modifications
-  maintainers:
-    - chocobo1@aur
-  licenses:
-    - Apache-2.0
-- repo: baulk
+- repo: altsisyphus
   srcname: watchexec
-  binname: watchexec
+  binnames:
+    - watchexec
   visiblename: watchexec
   version: 2.8.0
-  origversion: null
+  origversion: 2.8.0-alt1
   status: newest
-  summary: Execute commands in response to file modifications.
+  summary: Executes commands in response to file modifications
+  maintainers:
+    - obirvalger@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Other
+- repo: liguros_develop
+  srcname: app-misc/watchexec
+  visiblename: app-misc/watchexec
+  version: 2.4.3
+  origversion: null
+  status: legacy
+  summary: Executes commands in response to file modifications
+  maintainers:
+    - lo48576@hard-wi.red
+  licenses:
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - CC0-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-3.0
+    - WTFPL-2
+    - ZLIB
+  categories:
+    - app-misc
 - repo: chocolatey
   binname: watchexec
   visiblename: watchexec
@@ -725,20 +747,6 @@
     - ZLIB
   categories:
     - app-misc
-- repo: solus
-  srcname: watchexec
-  binname: watchexec
-  visiblename: watchexec
-  version: 2.3.2
-  origversion: null
-  status: outdated
-  summary: Executes commands in response to file modifications.
-  maintainers:
-    - ian@ianmjones.com
-  licenses:
-    - Apache-2.0
-  categories:
-    - system.utils
 - repo: liguros_stable
   srcname: app-misc/watchexec
   visiblename: app-misc/watchexec
@@ -801,28 +809,6 @@
     - MPL-2.0
     - Unicode-DFS-2016
     - WTFPL-2
-  categories:
-    - app-misc
-- repo: liguros_develop
-  srcname: app-misc/watchexec
-  visiblename: app-misc/watchexec
-  version: 2.4.3
-  origversion: null
-  status: legacy
-  summary: Executes commands in response to file modifications
-  maintainers:
-    - lo48576@hard-wi.red
-  licenses:
-    - Apache-2.0
-    - BSD-2
-    - BSD
-    - CC0-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-    - Unicode-3.0
-    - WTFPL-2
-    - ZLIB
   categories:
     - app-misc
 - repo: liguros_develop
@@ -1161,6 +1147,20 @@
   status: newest
   licenses:
     - Apache-2.0
+- repo: solus
+  srcname: watchexec
+  binname: watchexec
+  visiblename: watchexec
+  version: 2.3.2
+  origversion: null
+  status: outdated
+  summary: Executes commands in response to file modifications.
+  maintainers:
+    - ian@ianmjones.com
+  licenses:
+    - Apache-2.0
+  categories:
+    - system.utils
 - repo: solus
   srcname: watchexec
   binname: watchexec-dbginfo
