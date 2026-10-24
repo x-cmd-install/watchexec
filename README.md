@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.8.0` (2026-10-06)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-23
 - **Assets in release**: 132
 
 ## Popularity
 
-- **Stars**: 7,244 · **Forks**: 208 · **Open issues**: 371 · **Contributors**: 89
+- **Stars**: 7,246 · **Forks**: 209 · **Open issues**: 371 · **Contributors**: 90
 
 ## Totals (cumulative)
 
-- **Releases**: 120 · **Merged PRs**: 397 · **Open PRs**: 6 · **Closed issues**: 343 · **Open issues**: 28 · **Commits**: 1751
+- **Releases**: 120 · **Merged PRs**: 398 · **Open PRs**: 6 · **Closed issues**: 343 · **Open issues**: 28 · **Commits**: 1753
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 2 | 17 | 6 | 1 | 1 | 41 |
-| last60d | 2026-08-24 | 6 | 29 | 6 | 3 | 2 | 60 |
-| 90d | 2026-07-25 | 8 | 62 | 6 | 4 | 4 | 132 |
-| last180d | 2026-04-26 | 8 | 66 | 6 | 5 | 4 | 138 |
-| 360d | 2025-10-28 | 15 | 91 | 6 | 12 | 7 | 193 |
-| last720d | 2024-11-02 | 19 | 106 | 6 | 42 | 8 | 369 |
+| 30d | 2026-09-24 | 2 | 18 | 6 | 1 | 1 | 42 |
+| last60d | 2026-08-25 | 5 | 30 | 6 | 3 | 2 | 61 |
+| 90d | 2026-07-26 | 8 | 63 | 6 | 4 | 4 | 133 |
+| last180d | 2026-04-27 | 8 | 67 | 6 | 5 | 4 | 139 |
+| 360d | 2025-10-29 | 15 | 92 | 6 | 12 | 7 | 194 |
+| last720d | 2024-11-03 | 19 | 107 | 6 | 42 | 8 | 371 |
 
 ## Release assets
 
@@ -204,7 +204,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **86** distros on [repology.org](https://repology.org/project/watchexec). **19** are ✅ on the latest upstream release, **51** are ⚠️ on an older version.
+Reported by **86** distros on [repology.org](https://repology.org/project/watchexec). **20** are ✅ on the latest upstream release, **50** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -224,4 +224,4 @@ Install metadata for watchexec lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:41:11Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:28:45Z._
