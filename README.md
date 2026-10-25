@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,246 · **Forks**: 209 · **Open issues**: 371 · **Contributors**: 90
+- **Stars**: 7,248 · **Forks**: 208 · **Open issues**: 371 · **Contributors**: 90
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 2 | 18 | 6 | 1 | 1 | 42 |
-| last60d | 2026-08-25 | 5 | 30 | 6 | 3 | 2 | 61 |
-| 90d | 2026-07-26 | 8 | 63 | 6 | 4 | 4 | 133 |
-| last180d | 2026-04-27 | 8 | 67 | 6 | 5 | 4 | 139 |
-| 360d | 2025-10-29 | 15 | 92 | 6 | 12 | 7 | 194 |
-| last720d | 2024-11-03 | 19 | 107 | 6 | 42 | 8 | 371 |
+| 30d | 2026-09-25 | 2 | 18 | 6 | 1 | 1 | 38 |
+| last60d | 2026-08-26 | 5 | 30 | 6 | 3 | 2 | 59 |
+| 90d | 2026-07-27 | 8 | 63 | 6 | 4 | 4 | 131 |
+| last180d | 2026-04-28 | 8 | 67 | 6 | 5 | 4 | 139 |
+| 360d | 2025-10-30 | 15 | 92 | 6 | 12 | 7 | 194 |
+| last720d | 2024-11-04 | 19 | 107 | 6 | 42 | 8 | 371 |
 
 ## Release assets
 
@@ -204,14 +204,14 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **86** distros on [repology.org](https://repology.org/project/watchexec). **20** are ✅ on the latest upstream release, **50** are ⚠️ on an older version.
+Reported by **86** distros on [repology.org](https://repology.org/project/watchexec). **21** are ✅ on the latest upstream release, **49** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `2.8.0` | ✅ latest |
 | Homebrew | `2.8.0` | ✅ latest |
 | Nix unstable | `2.5.1` | ⚠️ outdated |
-| Void | `2.7.2` | ⚠️ outdated |
+| Void | `2.8.0` | ✅ latest |
 | Alpine edge | `2.8.0` | ✅ latest |
 | openSUSE Tumbleweed | `2.5.1` | ⚠️ outdated |
 
@@ -224,4 +224,4 @@ Install metadata for watchexec lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:28:45Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:47:06Z._
