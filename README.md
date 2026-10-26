@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,248 · **Forks**: 208 · **Open issues**: 371 · **Contributors**: 90
+- **Stars**: 7,252 · **Forks**: 208 · **Open issues**: 372 · **Contributors**: 90
 
 ## Totals (cumulative)
 
-- **Releases**: 120 · **Merged PRs**: 398 · **Open PRs**: 6 · **Closed issues**: 343 · **Open issues**: 28 · **Commits**: 1753
+- **Releases**: 120 · **Merged PRs**: 398 · **Open PRs**: 6 · **Closed issues**: 343 · **Open issues**: 29 · **Commits**: 1753
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 18 | 6 | 1 | 1 | 38 |
-| last60d | 2026-08-26 | 5 | 30 | 6 | 3 | 2 | 59 |
-| 90d | 2026-07-27 | 8 | 63 | 6 | 4 | 4 | 131 |
-| last180d | 2026-04-28 | 8 | 67 | 6 | 5 | 4 | 139 |
-| 360d | 2025-10-30 | 15 | 92 | 6 | 12 | 7 | 194 |
-| last720d | 2024-11-04 | 19 | 107 | 6 | 42 | 8 | 371 |
+| 30d | 2026-09-26 | 2 | 18 | 6 | 1 | 2 | 38 |
+| last60d | 2026-08-27 | 5 | 30 | 6 | 3 | 3 | 59 |
+| 90d | 2026-07-28 | 8 | 63 | 6 | 4 | 5 | 131 |
+| last180d | 2026-04-29 | 8 | 67 | 6 | 5 | 5 | 139 |
+| 360d | 2025-10-31 | 15 | 92 | 6 | 12 | 8 | 194 |
+| last720d | 2024-11-05 | 19 | 107 | 6 | 42 | 9 | 371 |
 
 ## Release assets
 
@@ -224,4 +224,4 @@ Install metadata for watchexec lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:47:06Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:37:09Z._
