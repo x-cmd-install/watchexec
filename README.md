@@ -14,11 +14,11 @@ x install watchexec
 
 ## Code insight
 
-Total: **23,971** lines of code across **143** files in the top 5 languages.
+Total: **24,014** lines of code across **143** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 22,426 | 471 | 3,083 | 115 |
+| Rust | 22,469 | 472 | 3,085 | 115 |
 | Toml | 810 | 18 | 165 | 18 |
 | Svg | 307 | 0 | 0 | 1 |
 | Json | 248 | 0 | 0 | 8 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.8.0` (2026-10-06)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-11-03
 - **Assets in release**: 132
 
 ## Popularity
 
-- **Stars**: 7,267 · **Forks**: 211 · **Open issues**: 372 · **Contributors**: 90
+- **Stars**: 7,266 · **Forks**: 211 · **Open issues**: 372 · **Contributors**: 91
 
 ## Totals (cumulative)
 
-- **Releases**: 120 · **Merged PRs**: 398 · **Open PRs**: 9 · **Closed issues**: 343 · **Open issues**: 29 · **Commits**: 1753
+- **Releases**: 120 · **Merged PRs**: 399 · **Open PRs**: 8 · **Closed issues**: 344 · **Open issues**: 28 · **Commits**: 1756
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 1 | 9 | 9 | 0 | 2 | 6 |
-| last60d | 2026-09-03 | 5 | 26 | 9 | 3 | 3 | 52 |
-| 90d | 2026-08-04 | 8 | 57 | 9 | 4 | 5 | 127 |
-| last180d | 2026-05-06 | 8 | 67 | 9 | 5 | 5 | 138 |
-| 360d | 2025-11-07 | 15 | 91 | 9 | 12 | 8 | 193 |
-| last720d | 2024-11-12 | 19 | 107 | 9 | 41 | 9 | 371 |
+| 30d | 2026-10-04 | 1 | 8 | 8 | 1 | 1 | 8 |
+| last60d | 2026-09-04 | 4 | 27 | 8 | 4 | 1 | 54 |
+| 90d | 2026-08-05 | 8 | 58 | 8 | 5 | 4 | 129 |
+| last180d | 2026-05-07 | 8 | 68 | 8 | 6 | 4 | 140 |
+| 360d | 2025-11-08 | 15 | 92 | 8 | 13 | 7 | 195 |
+| last720d | 2024-11-13 | 19 | 108 | 8 | 42 | 8 | 374 |
 
 ## Release assets
 
@@ -213,7 +213,7 @@ Reported by **86** distros on [repology.org](https://repology.org/project/watche
 | Nix unstable | `2.5.1` | ⚠️ outdated |
 | Void | `2.8.0` | ✅ latest |
 | Alpine edge | `2.8.0` | ✅ latest |
-| openSUSE Tumbleweed | `2.5.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.8.0` | ✅ latest |
 
 ## Improve this data
 
@@ -224,4 +224,4 @@ Install metadata for watchexec lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:01:16Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:46:52Z._
