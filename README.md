@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,292 · **Forks**: 209 · **Open issues**: 372 · **Contributors**: 93
+- **Stars**: 7,294 · **Forks**: 209 · **Open issues**: 372 · **Contributors**: 93
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 6 | 12 | 1 | 0 | 9 |
-| last60d | 2026-09-16 | 2 | 23 | 14 | 2 | 1 | 48 |
-| 90d | 2026-08-17 | 8 | 48 | 14 | 4 | 4 | 126 |
-| last180d | 2026-05-19 | 8 | 70 | 14 | 6 | 4 | 143 |
-| 360d | 2025-11-20 | 15 | 94 | 14 | 12 | 7 | 198 |
-| last720d | 2024-11-25 | 19 | 110 | 14 | 41 | 8 | 379 |
+| 30d | 2026-10-17 | 0 | 4 | 12 | 1 | 0 | 6 |
+| last60d | 2026-09-17 | 2 | 23 | 14 | 2 | 1 | 48 |
+| 90d | 2026-08-18 | 8 | 45 | 14 | 4 | 4 | 92 |
+| last180d | 2026-05-20 | 8 | 70 | 14 | 6 | 4 | 143 |
+| 360d | 2025-11-21 | 15 | 94 | 14 | 12 | 7 | 198 |
+| last720d | 2024-11-26 | 19 | 110 | 14 | 41 | 8 | 379 |
 
 ## Release assets
 
@@ -204,7 +204,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **85** distros on [repology.org](https://repology.org/project/watchexec). **23** are ✅ on the latest upstream release, **46** are ⚠️ on an older version.
+Reported by **85** distros on [repology.org](https://repology.org/project/watchexec). **25** are ✅ on the latest upstream release, **44** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -224,4 +224,4 @@ Install metadata for watchexec lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:20:45Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:29:03Z._
