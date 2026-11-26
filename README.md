@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,336 · **Forks**: 215 · **Open issues**: 373 · **Contributors**: 96
+- **Stars**: 7,340 · **Forks**: 215 · **Open issues**: 373 · **Contributors**: 96
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 6 | 10 | 0 | 1 | 6 |
-| last60d | 2026-09-26 | 2 | 24 | 13 | 2 | 2 | 48 |
-| 90d | 2026-08-27 | 5 | 36 | 13 | 4 | 3 | 70 |
-| last180d | 2026-05-29 | 8 | 73 | 13 | 5 | 5 | 147 |
-| 360d | 2025-11-30 | 15 | 96 | 13 | 12 | 8 | 202 |
-| last720d | 2024-12-05 | 19 | 113 | 13 | 41 | 9 | 386 |
+| 30d | 2026-10-27 | 0 | 6 | 10 | 0 | 1 | 0 |
+| last60d | 2026-09-27 | 2 | 24 | 13 | 2 | 2 | 0 |
+| 90d | 2026-08-28 | 5 | 36 | 13 | 4 | 3 | 0 |
+| last180d | 2026-05-30 | 8 | 73 | 13 | 5 | 5 | 0 |
+| 360d | 2025-12-01 | 15 | 95 | 13 | 12 | 8 | 0 |
+| last720d | 2024-12-06 | 19 | 113 | 13 | 41 | 9 | 386 |
 
 ## Release assets
 
@@ -211,4 +211,4 @@ Install metadata for watchexec lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:21:00Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:25:53Z._
